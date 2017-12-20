@@ -1,0 +1,6152 @@
+13/09
+almoço: 18
+farmacia:9,8
+cerveja:17
+gas:5027
+
+14/09
+bigode:43
+
+15/09
+ALMOÇO:26
+GAS:20
+mercado:36,5
+lanche:3,25
+
+16/09
+gas:50
+almoço:8.75
+espetinho:5
+xerox:0,60
+justica:50
+mercado:20
+
+17/09
+
+
+leite pedro:5,9
+pastel:3
+mercado: 47,25 + 2,5
+bigode:7
+
+18/09
+comida: 14,5
+gas:50
+cerveja_cig: 45,50
+bigode:14
+
+19/09
+comida:18
+cerveja:6
+mercado:4.40
+
+20/09
+gas:5
+mercado:7
+mercado:16,95
+
+21/09
+cerveja + leite:31,20   tot:31,20
+
+22/09
+gas:59      tot:59
+
+23/09
+celular: 100
+almoço:16
+coca:3,5
+farmacia:38,9
+xerox:1,5    tot:159,9
+
+24/09
+almoço:11.40
+jhe:15
+gas:24   tot: 50,4
+
+25/09
+gas:50
+pizza:33 tot:83
+
+26/09
+almoço:10
+cerveja:20  tot:30
+
+27/09
+cerveja:40
+gas:20  tot:60
+
+28/09
+cerveja:24
+leite:4
+lanche:16 tot:44
+
+29/09
+gas:20
+leite:5.9
+mercado:29.59
+mercado:15.60
+gas:10   tot:81,09
+
+30/09
+gas:50
+almoco:11,25
+remedio:8,9 + 5,9
+cerveja:15,75
+refri:5   tot:2961,39  media: 98,713
+
+1/10
+xerox: 0,70
+refri:5
+miguel:16,5 tot:27,2
+jhe:5
+
+2/10
+chave:60
+coca:6,20
+mercado:91,66
+farmacia:97,4
+tarifa itau: 14,9  tot:270,16
+
+3/10
+gas:50
+telefone+lanche:88
+mercado:299,05
+pizza:25  tot:462,05
+
+4/10
+6,5
+
+5/10
+mercado:36
+jhe:18   tot:54
+
+6/10
+gas:50
+aluguel:400 tot:450
+
+7/10
+remedio:23  tot:23
+
+8/10
+almoço:5
+gas:40
+remedio:9  tot:54
+
+9/10
+jhe:10
+almoço:12
+dvd:2
+pneus:100
+chips:4,25
+pizza:34,5  tot:162,5
+
+10/10
+mercado:8,5
+remedio:6
+cerveja:18  tot:32,5
+
+11/10
+farmacia:34,25
+cerveja:75
+cabelo corte:10
+oleo carro:15
+gas:50   tot: 184,25
+
+12/10
+cerveja:76
+bigode:224  tot: 300
+
+13/10
+0,0
+
+14/10
+0,0
+
+15/10
+mercado:32,25
+radiador carro:200  tot:232,25
+
+16/10
+
+carro:350
+almoço:19
+cerveja:6,75 tot: 375,75
+
+17/10
+almoço:10
+lanche:5
+mesa cozinha:20
+gas:50  
+mercado:6,05  tot: 91,05
+
+18/10
+cerveja:9
+agua:1,5   tot:10,5
+
+19/10
+cerveja:28  tot:28
+
+20/10
+oleo:9
+CIGARRO:7
+GAS:40
+cerveja:12   tot:68
+
+21/10
+coca:5
+pao:1,75
+jhenniffer:10
+remedio:4  tot:20,75
+
+22/10
+mercado:82,33
+lanche:6,25
+gas:20    tot:108,58
+
+23/10
+
+miguel:150
+refri:2
+cigarro:3
+gas:50
+almoço:35      tot: 257,75
+lanche:17,75
+
+
+24/10
+lavagem:25
+refri:2
+xerox:0,30
+jhe:10
+cerveja:9,5 tot:46,8
+
+25/10
+cerveja:54  tot:58,3
+leite: 4,3
+
+26/10
+cerveja+doce:23,85+2,38
+padaria:10,87
+gas:20  tot:57,10
+
+27/10
+desodorante:10,85
+gas:50
+lanche frango: 65,20
+cerveja:2  tot: 128,05
+
+28/10
+almoço:10
+jhe:10      tot:20
+
+29/10
+almoço:7
+cafe + celular: 63,25
+gas+refri:55,50
+lanche:10,50   tot: 136,25
+
+30/10
+almoço:12
+gas:15
+cafe:2,25
+pedro:8,15
+fraldas:38    tot:75,4
+
+31/10
+almoço:14
+estar:8
+shorts jhe:49,9
+pedro:35
+oleo:12 tot:118,9  tot:3862,59  dia: 124,59
+picole:3
+
+1/11
+cerveja:3,50
+cerveja:58
+gas+outros:56  tot:123,4
+remedio:5,9
+
+2/11
+cenoura:3
+cerveja+pao:24
+cigarro:7     tot:34
+
+3/11
+almoço:9
+mercado:10,80
+mercado:17
+cigarro:7     tot:99,8
+coca:6
+gas:50
+
+4/11
+lanche:10
+xerox:1,5     tot:11,5
+
+5/11
+itau:14,9
+almoço:10
+aluguel:250
+gas:50        tot:331,4
+leite:6,5
+
+6/11
+almoço:10
+mercado:10,5
+mercado:21,75
+cerveja:8     tot: 50,25
+
+7/11
+pizza:33
+gas:40
+almoço:7      tot:  80
+cafe:1,5   
+
+8/11
+cerveja:30;20;4;
+aluguel:70   tot:124
+
+9/11
+cerveja:12
+mercado:17,30;8;
+oleo:8     tot:45,3
+
+10/11
+almoço:10
+cafe:4
+cerveja:6  tot:20
+
+11/11
+almoço:19
+gas:15
+bebida:4,40
+lanche:14  tot:52,4
+
+12/11
+gas:50
+farmacia:15
+mercado:70,40
+jhennifer:70
+refri:7    tot: 212,4
+
+13/11
+almoço:12  
+bigode:150  tot:162
+
+14/11
+fralda:29,90
+cerveja:6
+bigode:12
+cerveja:14
+cerveja:8 tot:69,9
+
+15/11
+gas:47
+cerveja:6
+cerveja:7  tot: 60   
+
+16/11
+0,0
+
+17/11
+miguel:139,16
+banana:5,3
+bigode:5,5  tot:149,96
+
+18/11
+cafe:2,25
+gas:7
+bar:10
+cerveja:13,20
+xerox:0,90
+suco:3  
+emprestimo:5        tot:41,35
+
+19/11
+gas:30
+almoço:10
+mercado:104  tot:144    
+
+20/11
+lanche:18
+cafe:2
+almoço:10   tot:30
+
+
+21/11
+gas:50
+remedio:42,67
+frutaria:11,45  tot:104,12
+
+22/11
+0,0    tot:0
+
+23/11
+mercado:21,18
+farmacia:13,63
+presente duda:29,99 tot: 64,8
+
+24/11
+gas:5
+comida:17  tot:22
+
+25/11
+almoço:24
+justica:50
+cabelo:12
+gas:10
+lanche:7  tot: 103
+
+26/11
+gas:50
+lanche:1,5
+farmacia:174,36
+oleo:14,20  
+tubaina:2  tot:242,06   
+
+27/11
+0,0   tot:0,0    
+
+28/11
+refri:4,5
+xerox:0,90
+comida:20,50  tot: 25,9
+
+29/11
+documento carro:400  tot:400
+
+30/11
+gastos bigode:+- 7  tot:2810,54  totDia:93,68
+
+1/12
+carro:30
+gas:20
+almoço:12
+mercado:4,5
+itau:7,6 + 4,03 tot:78,13
+
+2/12
+itau: 14,9 tot:14,9
+
+3/12
+cd/virgem:1,20
+pneu:5
+bingo:45  tot:51,2
+
+4/12
+LEITE:4,30 tot:4,3
+
+5/12
+gas:50
+cerveja:9
+miguel:15,75
+jantar:75 tot:149,75   
+
+6/12
+bigode:5
+mercado:48 tot:53
+
+7/12
+bingo:35
+pizza:20
+farmacia:34,93
+mercado:20,50  tot:110,43
+
+8/12
+refri:5
+mercado:50  tot:55
+
+9/12
+gas:50
+itau adiant:46,30  tot:105,62
+panifi:9,32
+
+10/12
+cafe:4,5
+tim:112,73
+jogo:2,5  tot:119,730   
+
+11/12
+cafe:1
+mercado:20
+sorvete:4
+cerveja:58  tot:83
+
+12/12
+cafe:1,5
+lan house:1,80
+oleo:9
+padaria:2,20  tot: 44,5  media: 869,56 72,463
+gas:30
+
+13/12
+panificadora:25,6
+panificadora:1,8
+cerveja:48     tot:75,4
+
+14/12
+cerveja:12
+bigode:1
+gas:50   tot:63
+
+15/12
+panificadora:21,48
+almoço:5,57
+raçao:13,85 
+gas:45       tot:85,9
+
+16/12
+almoço:20
+carro:230
+cerveja:10,80  tot:260,8
+
+17/12
+cafe:6
+pneus:220
+lanche:10
+mercado:72,6
+doce:2,00
+cerveja:27,5   tot:338,10
+
+18/12
+almoço:11
+gas:55,75
+escol. pedro:145
+cerveja:21 + 50  tot: 282,75
+
+19/12
+oleo:8
+fralda:26,49
+cerveja:9
+gas:22,5  tot:65,99
+
+20/12
+leite:1,90
+agua:2,00
+cerveja:23
+miguel:11
+gas:50   tot:127,9    
+banco:40
+
+21/12
+0,0   tot:0     total:2169,40  103,30
+
+22/12
+leite:4
+cartorio:18,65
+jhennifer:50
+lanche:21
+carro:40
+mercado:7,25
+cerveja:29  tot:169,90
+
+23/12
+leite:4,20
+cafe:2,25
+gas:40
+cerveja:12+5  tot:63,45
+
+24/12
+jhe:17
+gas:10
+cerveja:20
+champanhe:9,5  tot:56,5
+
+25/12....31/12 = 856,66  tot: 3315,91   media:106,96
+
+1/1...7/1
+periodo ferias:280,21 
+
+8/1
+almoço:13   tot:13
+
+9/1
+almoço:36
+cafe:6,25
+saque:40    tot:82,25
+
+10/1
+bigode:203 tot:203   geral:578,46   media:57,84
+
+11/1
+0,0  tot:0
+
+12/1
+almoço:30
+
+13/01
+gasolina:20
+
+14/01
+0,0           
+                        
+15/01
+0,0
+
+16/01
+0,0
+
+17/01
+0,0
+
+18/01
+somatorio:586  
+miguel:29
+escolinha:220
+gas:30    tot:865
+
+19/01
+bigode:12
+milkshaik:5
+almoço:10
+gas:22+20
+cafe:2,25  tot:71,25
+
+20/01
+leite:2
+gas + oleo:40
+miguel:43
+pizza:42  tot:127
+
+21/01
+almoço:8
+pneu:5
+oleo:70   tot:83
+
+22/01
+mercado:5,5
+gas:20
+mamadeira:23
+leite:2   tot:50,5
+
+23/01
+gas:30
+almoço:24
+miguel:14,38  tot:88,38
+cerveja:20
+
+24/01              
+aluguel:550
+itau:46,30  tot:596,3
+
+25/01
+mercado:5,5+2+2,15+
+gas:50+38
+cerveja:4+32+10+10+15,5+10   tot:179,15    PARCIAL: 2689,04
+
+26/01       
+gilso:120 - 40jhe
+despachante:370
+gas:50  tot:500
+
+27/01
+mercado:40
+milksyhek:3,5
+mercado:10
+cerveja:6   tot:59,5
+
+28/01
+pneu:5
+lanche:10,5
+bingo:65   tot:80,5
+
+29/01
+almoço:32,5
+bateria:180
+gas:50+70+15
+mercado:11,5+25
+cerveja:4,50
+lanche:13   tot:401,5
+
+30/01
+mercado:16
+mercado:17,98
+oleo:8
+cana:6
+cerveja:4,5  tot:77,48
+jhe:25
+
+31/01
+cafe:4,5
+cerveja:10
+mercado:10
+cerveja:30  tot:54,5 + 75    TOTAL:3937,52 MEDIA:127
+
+1/2
+cerveja+mercado:54,6
+cerveja:20   tot:74,6
+
+
+2/2
+jhe:7
+cafe:3
+gas:20      tot:30
+
+3/2
+gas:30+20
+cafe:4,75
+almoço:14,3
+itau:3,85+0,44
+mercado+cerveja:71     tot:144,34
+
+4/2
+itau:14,9
+saque:50
+cafe:4,75                 tot:69,65   PARCIAL:318,59   79,64  
+
+5/2
+almoço:9,18
+mercado:22,85
+gas:29
+pizza:36,5
+mercado:106,22
+cartao:489,41    tot:693,16
+
+6/2
+almoço:11,35
+mercado:300
+gas:20         tot:331,35            
+
+7/2
+milksheik:1
+coca:7,5     tot:8,5
+
+8/2
+gas:20
+leite:2,10
+cerveja:20    tot:42,10
+
+9/2
+leite:2
+cafe:6
+gas:30
+xerox:0,75+1
+almoço:18
+aluguel:550
+telefone:58,59+49,13
+fraldaC:32
+frutariaC:30,70      tot:779,17
+
+10/02
+cafe:2
+gas:50
+lanche:2,5+10
+jhe:10
+oleo:12
+janta:56
+cerveja:6+2,5+2,25   tot:153,25
+
+11/02
+extravio moto:50
+cafe:7,5
+cerveja:6+5+4+2+2,5+4
+gas:10
+leite:2             tot:93    total:2419,12    media:219,92
+
+12/02
+cabelo:10
+multa estar:10
+estar:0,75
+panificadora:86,96  tot:107,71
+   
+13/02
+jhe:5
+gas:20
+gas:50
+cerveja:5   tot:80
+
+14/02
+bala:1,25
+mercado:21
+panificadora:5,06  tot:54,81
+mercado:27,5
+
+15/02
+leite:1,89
+jhenni:40
+mercado:23,5   
+panificadora:16,95
+cerveja:9
+mercado:41          tot:132,34
+
+16/02
+cerveja:12
+lanche:15    tot:27
+
+17/02
+mercado:46,30
+posto:11,25+20   tot:77,55
+
+18/02
+cerveja:10
+mercado:5,5      tot:15,5      TOTAL:2887,03    MEDIA:160,39
+
+19/02
+almoço:25
+gas:50
+cerveja:1,5
+cerverveja:39,5  tot:116
+
+20/02
+almoço:15
+coca:3
+gas:23
+cafe:1
+milkshaik:5
+gas:22,25
+bigode:2
+pessoal:420 + 387
+oleo:8
+farmacia:36,99
+espetinho:15
+leite:3              tot:941,24
+
+21/02
+refri:6,40
+pneu:40
+alomoço:20
+mercado:10,60
+cafe:4,75           tot:81,75
+
+22/02
+farmacia:1
+gas:20
+cerveja:20           tot:45,5   TOTAL:4071,52    MEDIA:185,069
+coca:4,50
+
+23/02
+almoço:9
+gas:20
+panificadora:18,75
+jhe:10+2          tot:59,75
+
+24/02
+gasolina+oleo:56,5
+almoço:17
+panificadora:26,09
+xerox:0,60
+coca:1           tot:100,65
+
+25/02
+panificadora:4,5
+almoço:21,5
+outros:3
+mercado:13,50+5   tot:47,5
+
+26/02
+gas:95
+almoço:10
+cafe:2,25
+panificadora:29,54
+cigarro:2,5             tot:139,29
+
+27/02
+GAS:20+20
+LUZ:73,62
+cerveja:36          tot:149,62
+
+28/02
+oleo:8
+almoço cardoso:43+5+3
+jhe:10
+lanche:16    tot:85    TOTAL MES: 4653,33(807 OK)  MEDIA:166,19
+
+1/03
+cerveja:20
+miguel:44,5
+nissei:17,96
+beal:21,83
+corujao:27,5   tot:131,79
+
+2/03
+gas:20+50
+almoço:21,45
+panificadora:28,43
+celular:85    tot:183,43
+
+3/03
+guincho:50
+bojaogas:48
+almoço:20
+gas:60   
+auto eletrica:498   tot:676
+
+4/03
+almoço:24
+gasC:20
+bealC:205,09
+itau:16,30
+gas:30
+fraldaC:32    tot:327,39
+
+5/03
+gas:30       tot:30
+
+6/03
+gasC:30
+almoçoC:10.6
+lanche jhe:10      tot:50,60
+
+7/03
+salaoc:39
+mercado:200  tot:239
+
+8/03
+oleoC:8
+pizzaC:36 
+gasC:50     tot:94
+
+9/03
+gasC:20
+cafeC:5,16
+lancheC:7,25   tot:87,41
+gas:50
+miguel(T):5
+
+10/03
+jhe:50
+almoço:36
+refri:7
+itau:48,5
+lanche:3,5   tot:145   
+
+11/03
+gas:10
+coca:5,5
+presente niver:26,90  tot:42,4
+
+12/03
+aluguel:600
+almoço:20
+gasC:50
+gasC:30      tot:700    total:2705,02   media:225,41
+
+13/03
+cafeC:2,25
+gasC:20
+jheC:49
+roupa pedroC:148,60  tot:219,85
+
+14/03
+gasC:20
+cervejaC:4
+miguelC:78,30      tot:102,30
+
+15/03
+miguelC:23  tot:  23
+
+16/03
+conserto carro:400
+miguel:18,77
+almoçoC:22
+miguel:9,10  tot:449,87
+
+
+17/03
+gasC:10
+lanche:8
+lancheC:28
+consertocarroC:304
+gasC:30         tot:380
+
+18/03
+almoço:10
+cartorio:12
+estar:1
+lan house:0,90
+mercado:18,9
+gas:15     tot:57,8      TOTAL: 3937,84  PARCIAL:218,76
+
+19/03
+gas + oleo:28
+panificadora:8,95
+cerveja:2               tot:38,95
+
+20/03
+gasC:20
+gas R$:20
+fag janta:11,50
+farmacia divida:84,20
+farmacia pedroC:47,36
+cerveja:29                 tot:212,06
+
+21/03
+jhe:10
+frutaria:96,63
+gas + oleo:19           tot: 125,63         
+
+22/03
+cerveja:6+28
+leite:4,30
+gas:20         tot:58,30
+
+
+23/03
+cafe:2
+gas:10+20
+sabao beal:9,98
+miguel:4,50
+lan house:1,50   tot:47,98
+
+24/03
+almoço:11,90
+gas + oleo:39
+cartao:10
+beal:40,80
+beal pao:9
+cerveja:5+6+4:15   tot:125,7
+
+25/03
+almoço:10,5
+gas:50
+jhe:8               tot:68,5
+
+26/03
+miguel:6,65
+gas:20
+sbuway:27,50    tot:63,15   TOTAL:4678,11    PARCIAL:179,92
+oleoC:9
+
+27/03
+almoço:11,35
+gas:50
+cerveja:50
+jhe:14,80      tot:126,15
+
+28/03
+cafe:4,50
+pao:3
+panificadora:118,80
+cervejaC:18
+cerveja:15        tot:159,30
+
+29/03
+cerveja:5,40+18  tot:23,40
+
+30/03
+oleo:10
+frutaria:58,13
+gas:9,50    tot:77,63
+
+
+31/03
+farmacia:44
+bar:3,5
+farmacia:36,13
+lanche jhe:14,40
+xerox:1
+salgado:4
+lanche:26     tot:129,03    TOTAL MES:(+420 JA SOMADO) R$5613,62       MEDIA:181,08
+
+
+1/04
+farmacia:18,44
+lanche:8,20
+coca:7
+itau:2,86
+gas:4,85   tot:41,35   
+
+2/04
+farmacia:19,73
+hospitaL:50
+gas:20
+itau:1,50 +16,30+2,15
+cerveja bigode:10
+jhe pegou + cabelo:10+20
+cervja:10                   tot:159,68
+
+3/04
+mercado:200
+almoço:35
+farmacia:62,27    tot:297,27
+
+4/04
+cabelo:12
+mercado:9,45       tot:21,45
+
+
+5/04
+farmacia:2,40
+coca:7      tot:9,4
+
+
+6/04
+cafe:4
+gas:20+5
+tim:7
+jhe:2  tot:38
+
+
+7/04
+almoço:14
+miguel:150
+jhe:10
+gas:20
+pizza:37
+farmacia:6,77   tot:237,77
+
+
+8/04
+oleo:10
+caminhaoM:80
+gas:20
+gas NeneM:10
+almoçoM:39
+cervejaM:40   tot:249       TOTAL: 1059,92   PARCIAL:131,74
+ajunteM:50
+
+9/04
+gas:14+10
+cafe:8,75
+celular jhe:184
+almoço:21,9
+cartaoCred(anuidade):5
+cadeados:28                 tot:271,65
+
+10/04
+gas:20+5
+cafe:2
+suco:3
+almoço:12
+panificadora:11,30        tot:88,30
+cerveja:35
+
+11/04
+refri+agua:12            
+cerveja:41,5              tot:53,50
+
+12/04
+miguel:56,25
+agua:3,50
+refri:4,50
+                          tot:64,25                                 
+
+13/04
+oleo:10
+jhe:10
+lanche:6,25
+panificadorC:47,38
+cerveja:10
+credito:7
+lanche:6,25                tot:96,88
+
+14/04
+gas:30+6
+cafe:7,5
+estar:0,50
+almoçoC:19,37
+farmaciaC:35,89
+miguelC:11,90           tot:111,16
+
+15/04
+cafe:3,75
+gas:20+10
+almoço:10,50
+frutaria:46.66    tot:90.91
+
+16/04
+bigode(aluguel+luz)C:370
+almoço:28
+gas:17
+salgado:2,75
+sabao:2,35                   tot:442,60         TOTAL: 2279,17   MEDIA:142,44
+gasC + cervejaC:22,5
+
+
+17/04
+
+gas:50
+mercado:12,60
+remedios:73,99+8,90
+lanche:3
+jhe cabelo:200 
+oleo:8
+cerveja:6              tot:312,49
+
+18/04
+cafe:8,75
+miguelC:13,65
+miguel:3,75
+pastelaria:11,25
+coca:6 
+lanche:16     
+pessoal:150                 tot:209,20
+
+19/04
+cafe:4
+cerveja:19,50   tot:23,50
+
+20/04
+GAS+AGUAC:21,80
+mercado:46,99
+cervejaC:20,70(nene deu 21)   tot:99,49
+credito + suco: 10
+
+21/04
+almoço:34,50
+gas+oleo:28    tot:62,50
+
+
+22/04
+panificadora:15.27      tot:37,92    TOTAL:3000,77   PARCIAL:136,39
+mercado:12,65
+farmacia:10
+
+23/04
+cafe:3,25
+cemiterio:20
+gas:20
+lanche:4,75
+oleo:10
+pizza:41
+cerveja:7,25   tot:106,25
+
+24/04
+coca calhero:3
+almoço:13,60
+jhe:20
+gilso:26       tot:62,60
+
+25/04
+panificadoraC:14,50
+almoçoC:18,50
+cerveja:2
+gas+cervejaC:24
+cervejaC:8
+melosC:87
+cerveja:2,50                tot:156,5
+
+
+26/04
+cerveja:5                     tot:5
+
+
+27/04
+gasC:50
+almoçoC:13
+panificadora:10,25    tot:83,25
+cerveja:10
+
+28/04
+cafe:2,25
+almoço:35
+gas:15
+oleo:10
+pneu:40  
+credito:7  
+roupas pedro:50
+mercado:7
+panificadora:34             tot:200,25
+
+29/04
+panificadora:26,90(ver cigarro)
+gas:20
+remedio:9
+lanche:3,5
+mercado:5,10
+                   tot:64,50
+
+
+30/04
+aluguel valter:1500
+gas:20
+almoço:10
+150         tot:1680
+
+                    TOTAL MES:5359,12(300 somado)   MEDIA:178,63
+
+1/05
+panificadora:180,26
+cerveja:28
+gas:20
+cerveja gilso:18   tot:246,26
+
+2/05
+cafe:3
+lan house=1+13
+miguel:8+36,15
+cerveja:21   tot:74,15
+
+3/05
+0,0     tot:0
+
+4/05
+jhe:5
+panificadora:6,50
+cafe:2,25
+beal:19,60
+gas:10                 tot:83,35
+jhe:10
+gas:30
+
+5/05
+ademir:47,50
+almoço:13,60
+panificadora:7,50
+oleo:10
+farmacia:9,70
+mercado:8,80
+halls:2                        tot:104,60
+coca:5,50
+
+6/05
+
+panificadora:4
+almoço:24,45
+gasolina:30
+guarana frutaria:3,20
+pneu:55
+chuveiro:39,50
+credito+paçoca:7,60   tot:174,75
+lanche:11
+
+7/05
+gas:30+20
+gas+halls:11,50
+          100
+cerveja:2,50
+panificadora:3,75
+lan house:0,65
+itau:16,30+48,50+1,26
+coca + cerveja:12,50       tot:246,96
+
+8/05
+lan house:2,40+1,90
+gas+refri:14,75
+almoço:8,75
+panificadora:33,50    tot:106,30      PARCIAL: 1035,77   129,47 
+halls:2
+pizza+cerveja:43
+
+9/05
+mercado:8
+gas:10
+MERCADO:10
+cerveja:20,50
+cerveja:30
+cerveja:20,50      tot:99
+
+10/05
+cerveja:2,50
+miguel:15,65
+miguel:33,75
+gas:10
+tomate:1,25    tot:73,15
+cerveja:10
+
+11/05
+cerveja:2 + 2,30
+        150
+gas:20          tot:174,30
+
+12/05
+panficadora:5
+oleo:10
+lan house:5,40
+cabelo jhe:50
+moedas jhe:3,10
+lanche + coca:30   tot:103,5
+
+13/05
+carro pastilhas:55
+credito + paçoca:7,30
+coca-cola:3,5
+pizza:41           tot:106,80
+
+14/05
+jhennifer:20
+panificadora:8,50  tot:28,50
+
+
+15/05
+cafe:2,25
+pneu:65
+oleo:10
+almoço:8,40
+	250
+cerveja:2,25
+gilso:20+23       tot:390,9
+
+16/05
+gas:20
+panificadora:3,65
+panificadora:60,50
+almoço:10,20
+MIGUEL:65
+CIGARRO:7,5    TOT:166,85           TOTAL:   2178,77    136,17
+
+17/05
+mercado:6,45    tot:6,45
+
+
+18/05
+jhe:3
+almoço:25
+panificadora:4,50
+pneu:55
+gas:5     tot:92,5
+
+19/05
+cabelo:12
+gas:20
+almoço:27
+mercado:14,50+4,3
+fag lanche:3,50     tot:81,30
+
+20/05
+jhe posto:13,95
+remedio:8,99
+stop:310,05
+credito + jhe:8   tot:340,99      TOTAL: 2700,01   MEDIA: 135 
+
+21/05
+pneu:17
+gas:20                    tot:143
+jhe:50+20
+anuidade cartao:10
+lanche ju:26
+
+22/05
+miguel:300
+pneus:100
+juros cartao:110
+mensalidade cartao:5
+gasC:20
+lanche:27,5
+reppy barC:40
+gas:20
+cerveja:2,25
+cerveja:2,5
+cerveja:10   tot:637,25
+
+23/05
+cervejaC:4,50  tot:4,5
+
+24/05
+miguelC:48
+postoC:38    tot:86
+
+25/05
+farmaciaC:39,9   tot:66,10
+almoço:25
+xerox:1,20
+
+26/05
+mercado:13,8
+refri:5
+gas:20
+lanche:17,50
+cigarro + cerveja:11,80
+cerveja + coca:8           tot:76,10  TOTAL:3712,96     MEDIA:142,80
+
+27/05
+gas:20
+creditos:7
+lan house:2
+frutaria:57,6
+chips:3,7
+gas:20          tot:409,30
+     290
+cerveja:9
+
+28/05
+cafe:7,5
+almoço:12
+gas:20
+lanche:3,5
+gas:20
+conserto carro á vista:70
+conserto carro credito:900+420
+mototaxi:15
+cerveja:2,5
+cerveja:6                  tot:1476,5
+
+29/05
+almoço:30
+pneu:10
+mercadoC:20,80
+gas:30
+cerveja:10    tot:100,8        TOTAL:5699,56   MEDIA:196,53
+
+30/05
+havanC:169(5x metade da jhennifer)
+cervejaMiguelC:39,5
+cervejaC:17
+flanelinha:1                           tot:249
+anuidade cartao internacional:22,5
+
+31/05
+sucoC:3,5
+cerveja:2
+cervejaC:6             tot:11,5
+                                       TOTAL MES: 5960,06(790 OK)             MEDIA MES:192,26
+
+1/06
+gas:20
+panificadora:19,30
+lanche:16,5
+itau:6,75       tot:62,55
+
+2/06
+almoço:20
+cafe:2,25
+gas:20
+panificadora:51,45
+jhe:3
+impressao:0,90
+lanche:18     tot:128,6
+cerveja:10
+
+3/06
+itau:16,30
+almoço:11,5(reginaldo deu 12)
+gas:20
+cafe panificadora:5
+botijao gas:48
+remedios:13,84          tot:114,64
+
+4/06
+mercadoD:23,3
+farmaciaD:6
+cervejaD:6
+cervejaD:28   tot:63,30
+
+5/06
+jhe:20
+almoço:18
+gas:20
+credito:7
+gilson:35   tot:100
+
+6/06
+frutariaD:7,15
+cerveja miguelD:18,70
+gas + cervejaD:22
+cerveja:5               tot:107,47
+farmaciaD:54,62
+
+7/06
+cerveja miguelD:33,4
+cerveja:4,5            tot:37,9    TOTAL:614,46   MEDIA:87,78
+
+8/06
+mercado:0,30
+gas:20+10
+jhe:5               tot:55,3
+cerveja:20
+
+9/06
+cafe:2,25
+gas:30
+mercadoD:5,80
+panificadoraD:36,58
+almoçoD:13,5
+cerveja:2,5
+pizza + cervejaD:34,25   tot:126,21
+itau:1,33
+
+10/06
+gasD:20
+lan house:3,2
+panificadoraD:8
+mercadoD:2,5       tot:43,7       TOTAL:839,67   MEDIA:83,96
+lancheD:10(20)
+
+11/06
+gasD:20
+mercadoD:139,76   tot:159,76
+
+12/06
+gas:20
+panificadoraD:9,70
+gas:10
+cerveja:17,25
+gislon cerveja:11,75
+gislson bingo:25     tot:93,70
+
+13/06
+gas:10
+cervejaD:30
+cervejaD:32,5
+bingo jhe:20    tot:92,5
+
+14/06
+mercadoD:2,90
+cerveja:4    tot:6,90        TOTAL:1192,56    MEDIA:85,18
+
+15/06
+lan house:1,90
+lan house:1,90
+gas:20
+farmaciaD:36,19
+frutariaD:11,65    tot:71,64
+
+16/06
+gas:20
+cafe:2,25
+cervejaC:5
+mercado+cerveja:28,70
+cerveja:12            tot:67,95
+
+17/06
+marmita:16
+refri:5
+mercado:15
+pizzaC:30
+cervejaD:11
+cerveja:10     tot:87    TOTAL:1419,15    MEDIA:83,47
+
+18/06
+credito cel:14
+almoçoD:20(reginaldo deu 12)
+mercadoD:12,5
+mecanica:900          tot:971,50
+gas+galao:25
+
+19/06
+gas+chipsD:24,90
+almoçoD:36
+gas+DieselD:50
+lanche fag:3,50       tot:114,40
+
+20/06
+jhe:20
+cigarro+ice:12,5
+frutariaD:9,30
+lan house:6
+smir+fosforopadovani=5,45
+postoBrasilD:12,25
+cerveja canguru:4,50
+cereja miguelD:34,50                          tot:104,50
+
+21/06
+miguelD:77,54    tot:77,54
+
+22/06
+diesel:50
+credito miguel:8
+cervejaD:6,50     
+cerveja:5,50          tot:70               TOTAL:2757,09    MEDIA:125,32
+
+23/06
+cafe:6,60
+anuidade NACIONAL:10            
+farmaciaD:15,69
+lancheD:16        tot:48,29
+
+24/06
+doação:1
+panificadoraD:13,25
+cerveja+gasD:54
+cerveja:15         tot:83,25
+
+25/06
+cafeD:3,80
+lan house:4,5
+panificadoraD:27,62
+farmaciaD:1,50
+dieselD:50
+cervejaD:2
+         214
+cigarro+cerveja:15,50     tot: 318,92
+	
+26/06
+cerveja+smirD:???
+
+27/06
+diesel:50
+cerveja+mercado:12,50+28
+mercado:10                  tot:100,50
+
+28/06
+mercadoD:41,05
+festa junina:6+1,50+4
+gilson bar:3+6
+bigode:3+3+3+8+6         tot:84,55        TOTAL::3392,6       MEDIA::121,16
+
+29/06
+luz:46,27
+lan house:1+3,20
+mercadoD:22,15
+panificadora:2,25+5,90
+lanche fag:6,25lanche 
+juC:36,50  
+anuidade cartao multiplo:5    tot:128,52 
+
+30/06
+diesel:10
+panificadora:3
+cerveja:7
+credito celular:7
+miguel + cervejaD:29    tot:56                    TOTAL MES JUNHO: 3577,12(214 OK)     MEDIA:119,23
+
+01/07
+diesel:50+20
+almoçoC:25
+cerveja postoD:4,60
+cerveja corujao:2
+cerveja posto lata:2
+		    ( 170 )
+cabecao:20
+cabecao musica:1             tot:425,1
+justiça federal:100
+mercado:5
+lanche juC:25,50
+
+2/07
+feirinha:25,50
+cerveja:4
+cerveja+mercadoD:14,50        tot:48,50
+panificadora(atrasado):4,50
+
+3/07
+cafe:3,75
+panificadoraC:22,28
+farmaciaC:37                      
+cervejaD:2
+diesel + cervejaC:32
+smirC:5,5
+creditoC:90
+	             ( 130 )
+cerveja miguel:2,50+6
+gilson:10+5+14
+lan house:2,80 + 1            tot:363,83
+
+4/07
+lan house:0,50
+reginado:2,75
+mercado + cervejaC:27,65
+caixa cervejaD:26
+diesel:30                    tot:86,90
+
+5/07
+cerveja + cigarro:38
+mercadoD:17,35
+panificadoraD:17,17           tot:72,52
+
+6/07
+cafe:2,25
+diesel:20
+cervejaD:1,50
+lan house:2+1,65
+diesel+cervejaD:22             tot:69,50
+panificadoraD:20,10
+
+7/07
+diesel:20
+dieselC:20
+almoçoC:28,50
+lan house:1,35
+cafeD:6,50(7,5D)
+itauD:16,30
+lan house:3
+surubimC:38
+BCP:80                     tot:231,65
+mercadoD:11,50
+canguru cervejaD:4,50
+posto cervejaD:2
+
+8/07
+diesel:20
+gasD:20
+almoçoD:11,80(12,80)
+conserto carro:450
+cafe:5
+lan:2,75 + 0,85
+BCP: 45 + 50 + 50
+posto + cervejaD:24
+posto cervejaD:4           tot:728,51
+farmaciaD:29,11
+mercadoD:16
+
+9/07
+cafe:2,25
+lan house:1,85+1,35+1,35
+	(390)
+BCP:60
+lanche ju:17
+cerveja corujaD:2
+cerveja migueD:8,20
+mercadoD:10,15
+gas:30                tot:574,15
+aluguel valter:50
+
+10/07
+almoçoD:11,43
+gas:20
+lan house:0,50+2
+cerveja miguelD:27
+lanche:18
+jhe:1              tot:79,93                TOTAL: 2680,59      MEDIA:268
+
+11/07
+almoço cardosoD:59,35
+lan:0,85
+gasD:20
+salgadinho:1                                   
+aluguel valter:70 + 20(cheque 1220 diferença 1200)      tot:249
+cerveja corujaoD:25
+mercadoD:30,80
+alcoolD:20
+chipsD:2
+
+12/07
+posto santa alcoolD:10
+farmacia fraldasD:12,99
+mercado miguelD:50
+panificadoraD:4,92                     tot:77,91
+
+13/07
+panificadora:156,26
+lan:1,5
+alcool:23
+refri:6
+cerveja miguel:9,60
+cerveja cardoso:6               tot:202,36
+
+14/07
+alcool:20
+lan universitario:1,75
+xerox:0,40
+lanche mellos:22
+lan:1+1                             tot:75,15
+alcool:20
+credito + cerveja:9            TOTAL:3285,01   MEDIA:234,64
+
+15/07
+cafe:5
+alcool:30
+lan:0,85+2+1,85        tot:110,95
+pizzaD:41,50
+mercadoD:26,25
+jogo mega sena:3,50
+
+16/07
+postoD:20
+moedas jhe:2
+farmaciaD:39,90
+mercadoD:52,50
+lan:2,7+1,65
+almoço:12,5     tot:128,55
+
+17/07
+postoD:20
+almoçoD:24
+agua:30,88(20/06)+66,65(20/05)
+lan:1,65+0,75 
+mercado:72,80                  tot:268,73
+cerveja:52(somatorio)
+
+18/07
+cafe:10,15
+almoço:37
+alcool:20                    tot:119,15
+mercado:1
+gison:51
+
+19/07
+bingo:6+10+10+5+15+2
+panificadora:4
+cerveja:18                   tot:70    TOTAL:3982,39      MEDIA:209,59
+
+20/07
+alcool:15+20
+aluguel valter:700
+luz:108,52
+mercado:26                  tot:869,52
+
+21/07
+gas:20
+almoço:20,90(nota28,92)
+credito:7
+lan:1,65+1,60
+consulta serasa:4        tot:58,65
+lanche fag:3,5
+
+22/07
+coca:5,5
+alcool:11+10
+corte cabelo:12
+lan:1,85+3,60             tot:53,95
+fag:3+5+2
+
+23/07
+alcool:15+5
+almoço:13
+mercado:17,30            tot:74,30          TOTAL:5038,81      MEDIA:219
+lanche ju:22
+lan:2
+
+24/07
+alcool:20
+coca-cola:2,70
+lan house:1,85
+almoço:20
+jhenniffer cabelo:150     tot:278,05
+posto:21
+cerveja:2,50
+BCP:40
+caxinha janaina:20
+
+25/07
+mercado:100
+lavagem carro:35
+cerveja:1+5
+mercado:14,90       tot:155,90
+
+26/07
+cerveja:10
+mercado:8,65
+cerveja zoio:57
+padaria:15,8
+musicas maquina zoio:12  tot:103,45
+
+27/07
+panificadora:21,84
+lan:1,5+2,35
+alcool:10
+jhe:2
+alcool:5         tot:42,69
+
+28/07
+alcool:10+10+20
+panificadora:10,37
+fralda:39,90     tot:120,27
+pizza:30
+
+29/07
+gas cozinha:52
+lan:1,15+2,85+0,95
+cafe:4,20
+	     (200)
+credito:7
+mercado:5,60               tot:283,75
+alcool:10
+
+30/07
+alcool:10+10
+panificadora:20+18,83
+panificadoraD:5,75
+cafe:7,75                  tot:72,33
+
+
+31/07             
+cafe:6,25
+alcool:10+10
+almoçoD:14
+gasD:20
+mercadoD:17,29
+juros adian Itau:48,50
+gasD:30
+cerveja:2+2               tot:160,04
+
+		                          TOTAL GERAL: 6215,29      MEDIA GERAL:200,49   (890 OK)     BCP:415
+
+01/08
+cerveja:3,50
+cervejaD:4
+panificadoraD:85,77
+lan:2,85
+mercadoD:35(78,87 oiginal)  tot:131,12
+
+02/08
+cervejaD:30
+
+03/08
+oleo:3
+lan:2,25
+gas:20
+gasD:20
+oleo hidraulicoC:12
+guaranaD:4,50
+panificadoraD:56,59    tot:118,34     TOTAL: 279,46   MEDIA:93,15
+
+04/08
+gasC:20
+lan:2,60+1,45+1,60
+gasD:5
+mercadoD:21,90
+aniversarioPedroC:8,5(shaloon)    tot:61,05
+
+05/08
+almoçoD:13(25 reginaldo deu 12)
+mercadoC:30,40
+gas:20
+tarifa itau:16,30          tot:79,7     TOTAL:420,21   MEDIA:84
+
+06/08
+cafe:2,25
+lan:3
+credito:7
+gas:20
+mercadoC:28,98
+cerveja:9,50              tot:70,73
+
+07/08
+cafe:6
+gasC:20
+almoçoC:29(54)
+aluguel:500
+niver pedroC:30
+niver PedroC:53,70            tot:638,70
+
+08/08
+niver pedro shuster:9,75
+niver pedro loja doces:98,20          tot:107,95
+
+09/08
+niver pedro salgadinhos:160
+niver pedro brinquedos:150
+niver pedroC:122,75          tot:432,75
+
+10/08
+lan:0,75+1,25
+gas:10                       tot:12
+
+11/08
+lan:1,70+1,85                tot:3,55             
+
+12/08
+gasD:20
+ lan:1,70
+cervejaD:5                    tot:6,9
+
+
+13/08
+itau encargos:0,92+12,37+0,20
+mercadoD:3,50
+cerveja corujaC:7,5
+lan:1,25
+cafeD:2,90
+lanche:3,75          tot:32,39
+
+14/08
+cafe:2,25
+lan:1,5+0,95         tot:14,70                  TOTAL: 1739,88      MEDIA:124,27
+cervejaD:10
+
+15/08
+lan:1,75
+gas:10
+cerveja:22           tot:40
+mercadoD:6,25
+
+16/08
+cervejaD:10
+cerveja corujao:9      tot:19     TOTAL:1798,88    MEDIA:112,43
+
+17/08
+MERCADO 14/08C:17,24
+CREDITO celular 14/08:7
+gasD:14
+cafe:2,5
+leiteD:4,30
+gas:9
+cerveja:2           tot:56,04
+
+18/08
+mercado:4,50
+lan:1,65+2,70
+gas:20              tot:58,35
+
+lanche:22
+
+19/08
+gas:10+10+20
+almoço:19(total 35)
+coca:2               tot:61
+
+20/08
+lan:0,75+0,95+1,30
+jhe:10
+gas:20
+panificadora:7,9+22,10
+cerveja:10+10           tot:83
+
+21/08
+panificadora:104,66
+gas vascelai:10+10
+cafe:2,8
+lan:1,5                  tot:128,96          TOTAL: 2186,23    MEDIA:104,10
+
+22/08
+credito:7
+cerveja:4+6+7+26
+mercado:16+10,50         tot:76,5
+
+23/08
+gas:10
+remedio:49           tot:62,60        TOTAL:2325,33        MEDIA:101,10
+leite:3,6
+
+24/08
+gas:20
+impressao:0,25
+meloslanche:14
+lan:2,25           tot: 68,50
+gas:20
+cerveja:2+10
+
+25/08
+panificadora:11,4
+luz:90,30
+fag:40
+lan:2+1,20
+gas:20+20
+almoço:18
+jhe:6
+lusitano:62
+cerveja:1,75            tot:272,65
+
+26/08
+gas:20
+cafe:3,50
+corte cabelo:12
+cerveja:2,5+10         tot:48
+
+27/08
+lan:1,10
+mecanico:20
+cabo carro:40
+posto:7,75
+cafe:2
+gas:20+10
+almoço:18
+bcp:17
+bcp:22
+______   185
+cerveja:10             tot:352,85 
+
+28/08
+gas:20
+cafe:2,5
+almoço:18
+mercado:9,40
+bcp:102               tot:168,9           TOTAL:3236,26     MEDIA:115,57
+CERVEJA:4+13
+
+29/08
+mercado:20,58
+remedios:45
+hospital:68
+mercado:13              tot:146,58
+
+30/08
+			tot:0
+        
+31/08                    
+lan:2,25            
+gas:10
+lanche:20               tot:32,25
+		                     
+					TOTAL GERAL AGOSTO:3415,09      MEDIA:110,16   bcp:141     tot:185
+
+
+1/09
+gas:12                 tot:12
+
+2/09
+gas:20                 tot:20
+
+3/09
+                        tot:0
+4/09
+lanche:16,5
+jhe:2                        tot:18,5
+
+5/09
+oleo:22
+cabecao:16
+jhe:20
+mercado:34           tot:92
+
+6/09
+mercado:100
+zoologico:8         tot:108
+
+7/09
+panificadora:47.80
+doces:10
+picole:4           tot:61,8
+
+8/09
+cafe:3
+lan:1+0,85
+panificadora:43,30           tot:48,15
+
+9/09
+gas:20+10+10
+leite panificadora:4,40
+lan:2+0,50
+almoço:10
+cafe:1,35                   tot:58,25
+
+10/09
+gas:20+20
+almoço:11
+coca:6,25
+bcp:66
+lan:5                       tot:128,25              TOTAL PARCIAL:546,95       MEDIA PARCIAL:54,69 
+
+11/09
+gas:20+20
+corujao:6
+mercado:11,5
+jhe:7                   tot:128,5
+s.oficio:45
+lanche:19
+
+12/09
+gas:20
+panificadora:109,19
+cabecao:4+20+1,5        tot:154,69
+
+13/09
+        tot:0
+14/09
+gas:20+50
+cigarro binho:1
+alomoço:27
+reginaldo:100
+oleo carro:94                tot:357,15
+remedios estrela:45,15
+jhe:20
+
+15/09
+gas:20+20+10
+refri:4
+almoço:10
+lanche ju:9 
+lan:2                tot:75
+
+16/09
+cafe:1,35
+gas:10
+cerveja+agua:6
+almoço:17,5
+miguel:2,80              tot:37,65
+
+17/05
+gas:20
+cafe:4,5
+agua:36,58+36,58
+cerveja:20+10,5          tot:128,16
+
+18/09
+gas:50+20
+cafe:2,35
+bala:1
+fralda:27               tot:100,35
+
+19/09
+gas:20+20
+zoio:20+4
+cardoso:100         tot:180,5                      TOTAL PARCIAL:1708,95       MEDIA PARCIAL:89,95 
+
+20/09
+(diferença agua:--9,20)
+doaçao:5
+mercado:15,25
+mercado:7,75             tot:18,8
+
+21/09
+gas:20
+luz:96,33
+cerveja:20
+jhe:10                     tot:146,33
+
+22/09
+gas:20+20
+cafe:4
+MULTASeSTAR:20
+panificadora:22,6
+mercado:5                 tot:91,6
+
+23/09
+gas:20+20
+comida:17+12
+cemiterio:100
+xerox:3
+lanche ju:28            tot:225,88
+remedio:25,88
+
+24/09
+gas:20
+almoço:12                 tot:32                       TOTAL PARCIAL:2223,56       MEDIA PARCIAL:92,64 
+
+25/09
+cabelo+barba:24
+gas:20+6
+PIZZA:29              tot:79
+
+26/09
+gas:20
+mercado:100+7         tot:127
+
+27/09
+       tot:0
+
+28/09
+gas:20+20
+mercado:91,93        tot:131,93
+
+29/09
+jhe:5
+gas:20+50
+almoço:10
+tubaina:5
+farmacia:67,81        tot:157,81
+
+30/09
+gas:20
+almoço:18
+farmacia:56,54   tot:94,54                                                
+
+                  		\\\\\ TOTAL FINAL SETEMBRO:2813,84        MEDIA FINAL:93,79        bcp:66    scp:0    /////////
+                      
+
+1/10
+gas:20
+pedro:20   tot:40
+
+2/10
+gas:20+20
+almoço:18,5
+lan:1,25+2
+cafe:1,35         tot:63,10
+
+3/10
+jhe:12
+panificadora:27,20
+farmacia:27,6
+gas:10           tot:76,80
+
+4/10
+mercado:50
+festa:13+7+2+24+30+20    tot:146
+
+5/10
+gas:20+9
+cartorio:5,25
+jhe:50
+cafe:1,35         tot:85,6
+
+6/10
+GAS:20+20
+cafe:2,25
+panificadora:11,5    tot:68,75
+credito:15
+
+7/10
+cafe:4,40
+lan:2+3,5
+gas:20+15
+cardoso:6
+almoço:5,7           tot:78,1
+cerveja+suco:21,5
+
+8/10
+gas:20+30
+almoçoC:14,60
+pizzaC:44
+cervejaC:12
+panificadora:67
+cerveja:2          tot:189,6
+
+9/10
+lan:3,5+3,5
+cafe:2,25
+lanche:3,75         tot:51
+cerveja:3+20
+gas:15
+
+10/10
+posto(20gas)C:21,80
+almoço:21,7
+panificadora:11           tot:80,90
+farmacia:26,40
+
+11/10
+mercado:3,65
+gas:30
+cerveja:18,5     tot:52,15
+
+12/10
+farmacia:34,90    tot:34,90
+
+13/10
+lan:2,85+2
+gas:20
+gasC:20
+credito:7
+miguelC:15
+miguel:10          tot:76,85
+
+14/10
+cafe:4,3
+gasC:20+36(refri 6)
+pastel binho:1,7
+lan:1,5
+mercado florenca:8,45
+mercado miguelC:6,15
+lanche centro:11
+estar:1             tot:90,10               TOTAL PARCIAL:1133,85          MEDIA PARCIAL:80,98
+
+
+15/10
+gas:20+20
+almoço:30
+espetinho:35,5
+cigarro:7,5
+cardoso:10
+lanche:15
+bcp:20                  tot:203,38
+anuidade cartaoN:10
+agua casa:35,38
+
+16/10
+cafe:3
+lan:1,85
+gas:20
+panificadora:70,15          tot:95
+
+17/10
+gasC:25(5 cerveja)
+piscina:35+6+4+3
+cerveja:6+7
+farmacia:29,35
+lan:1,85               tot:117,20
+
+18/10
+agua:2
+picole:1,75
+gas:10            tot:13,75
+
+19/10
+gasD:50+20(nota 59)
+oleohidraulico:9
+lanche:4,2
+aguabinho:3,5
+picole:3
+almoço:17,5       tot:159,2
+cardoso:24+8,5
+juLanche:19,5
+
+20/10
+gas:20+34C(4 cerveja)
+cafe:1,85
+almoço:10,5
+miguel:0,70
+panificadoraD:5,75
+cardosoD:23             tot:95,8
+
+21/10
+mercadoD:2,15
+mercadoC:16,31
+mercadoC:12,75             tot:31,21
+
+22/10
+gas:20
+lan:1,25
+refriC:5,75
+almoço:20
+conta luz:111,47
+credito:15                 tot:347,47                 TOTAL PARCIAL:2196,86          MEDIA PARCIAL:99,85
+bcp:10+50
+lanche ju:39
+mercado:65
+conserto pneu:10
+
+23/10
+itau mensalidade:17,2
+itau taxa:48,5
+almoço:12,4
+lan:1
+cafe:2,2                   tot:140,3
+gas:20
+gas:24(4 cerveja)
+mercado miguelC:15
+
+24/10
+almoço:8
+farmaciaD:30,37
+espetinhoD:44,60          tot:82,97
+
+25/10
+gasD:20
+panificadoraD:3,69+103,94+8,09
+cerveja+cocaD:34,8                tot:170,52
+
+26/10
+bcpD:16+47+22
+corujaoD:4,5
+panificadoraD:11,74
+farmacia:34,9                tot:136,14
+
+27/10
+gasD:30,20                 tot:30,20
+
+28/10
+sorvete:5
+posto:50
+cardoso:7
+cocaC:6,7(0,70 moeda)
+pneu:20                 tot:89,30
+xerox:0,60
+
+29/10
+agua:2
+cardoso:9
+gas+cerv:13
+ju lancheC:22          tot:46
+
+30/10
+almoço:15,4
+lanche:9       tot:24,4
+
+31/10
+gas:20
+mercado:34
+lan house:4,75   tot:58,75			
+
+			\\\\\ TOTAL FINAL OUTUBRO:2975,44        MEDIA FINAL:95,98        bcp:165    scp:0    /////////
+
+
+1/11
+        tot:0,0
+2/11
+coca-cola:6  tot:6
+
+3/11
+gas:20+10
+almoço:13
+cabelo+barba:18
+panificadora:17,9
+lan house:2,6              tot:81,5                             TOTAL PARCIAL:         MEDIA PARCIAL:
+                           
+4/11
+almoço:9+7
+gas:30                tot:46
+
+5/11
+gas:11+20
+almoço:9
+mercado:8,40
+espetinho da ju:14
+cardoso:8,50           tot:70,90
+
+6/11
+gas:50
+agua:2,5
+mercado:24,39
+cerveja:2,5
+pizza:44              tot:123,39
+
+7/11
+mercadobeal:173,95 
+cafe:8,6
+mercado(costela+sal):28,77
+gas:20
+panificadora(pao):5,21
+cerveja:12
+mercado(linguiça):7,5
+cerveja(vaquinha):7
+mercado(coca pedro):3,5         tot:266,53			 TOTAL PARCIAL:594,32          MEDIA PARCIAL:84,90
+
+8/11
+cerveja:16,5                    tot:16,5
+
+9/11
+gas:20
+almoço:10
+lanche + coca:8,40
+cafe:1,25
+espetinho:12
+cardoso:5       tot:56,65					TOTAL PARCIAL:667,47          MEDIA PARCIAL:74,16
+
+10/11
+lan:2,4+3
+almoço:11           tot:26,40
+ju lanche:10
+
+11/11
+almoço:16
+lan:2,4 + 1,10 + 2        tot:56,25
+gas:5 + 20
+espetinho:9,75                                                TOTAL PARCIAL:750,12          MEDIA PARCIAL:68,19
+
+12/11
+gas:5+5
+almoço:4
+alguel:270
+refri:3            tot:287
+
+13/11
+cafe:3,20
+almoço:24                tot:61,60
+jhe:1,25
+espetinho:12,50
+mercado:16,65
+gas:4               
+
+14/11
+panificadora:53
+picole:3                   tot:56 			TOTAL PARCIAL:1154,72          MEDIA PARCIAL:82,48
+
+15/11
+mercado:10+27,5
+cerveja:8                  tot:45,50
+
+16/11
+lan house:4,50
+credito celular:7
+panificadora:2
+lanche fag:3,50            tot:37			TOTAL PARCIAL:  1237,22                MEDIA PARCIAL:77,32
+gas:20
+
+17/11
+lan house:1,5
+pneu:30                      tot:31,50
+
+18/11
+gas:20+5
+pneus:100
+lan:1,45 + 3
+almoço:20                tot:179,45			TOTAL PARCIAL:1448,17                    MEDIA PARCIAL:80,45
+espetinho:30
+
+19/11
+jogos:5
+almoçoC:7
+gasC:5
+lan:5,50               tot:34,15
+panificadora:11,65
+
+20/11
+gas:5+5
+lan:2,75+3,50
+almoço:11,50
+panificadora:9,80
+xerox:3,30              tot:40,85			TOTAL PARCIAL:1523,17                    MEDIA PARCIAL:76,15
+espetinho:30
+
+21/11
+almoço:20
+cerveja:28+6
+mercado:13               tot:67
+
+22/11
+picole:12,50		tot:12,50			TOTAL PARCIAL:1602,67                    MEDIA PARCIAL:72,84
+
+23/11
+gas:30
+lan:1,60 + 4,20 +2
+almoço:8,20
+credito:7		tot:53
+
+24/11
+gas:5+10		tot:15
+
+25/11
+gas:31
+lanchonete:4,50
+lan:1,20               tot:36,70			TOTAL PARCIAL:1707,37                    MEDIA PARCIAL:65,66
+
+26/11
+conserto moto:100
+gas:20
+CREDITO:7
+lan:4,50
+pizza:20          tot:151,50
+
+
+27/11
+gas:10
+lan:3,60+4        
+panificadora:60,43       tot:78,03
+
+28/11
+lan:3,60
+mercado:40
+cerveja:13,40                 tot:57
+
+29/11
+bigode:8+2
+miguel:3+3+8,75+36,25          tot:88
+fralda:27
+
+30/11
+gas:10
+almoço:8,85                tot:44,95
+xerox:0,60
+mercado(maria luiza):17
+lan house:7,25
+impressao trabalho:1,25
+					\\\\\ TOTAL FINAL NOVEMBRO:2126,85        MEDIA FINAL:70,89        bcp:0    scp:0    /////////
+
+1/12
+jhe:6
+lan:1
+mercado:3
+gas:10
+lanche:20,50  
+panificadora:5           tot:45,50
+
+2/12
+lan:1,50+3,70
+almoço:18,80		tot:73
+gas:20
+mercado:29
+
+3/12
+panificadora:49,47+16,92
+cabelo+barba:18
+cerveja:20+10
+gas:5
+miguel(cerveja):39              tot:158,39
+
+4/12
+almoço:16,40
+lanche:9,25        tot:25,65
+
+5/12
+cafe:2,75
+panificadora:14,48
+panificadoraD:83,28
+picole:3
+gas:5				tot:108,51
+
+6/12
+coca colaD:6,25			tot:6,25				TOTAL PARCIAL:417,30                    MEDIA PARCIAL:69,55
+							
+7/12
+lan:1,50
+gas:8,50
+almoçoD:25,38
+lan:3,50
+farmaciaD:3,90
+mercadoD:69,90
+mercadoD:9,76     tot:122,40
+
+8/12
+refri:3
+gas:5
+credito:7
+cerveja:9 	tot:24
+
+9/12
+lan:2+5,50
+gas:5		    tot:70,36
+mercado:20,21
+mercado:23,65
+cerveja:5+9								TOTAL PARCIAL:634,06                    MEDIA PARCIAL:70,45
+
+10/12
+lan:1+1
+panificadora:11,95
+pastelaria:15
+gas:10			tot:38,95
+
+11/12
+gas:5
+almoço:42
+coca:5
+lan:1,50		tot:53,5					TOTAL PARCIAL:726,51                    MEDIA PARCIAL:66,04
+
+12/12
+panificadora:88,70
+fraldas:20
+gas:5
+cafe:2,50
+jhe:30
+miguel cerveja:30	tot:176,20		
+
+13/12
+mercado:30
+lanche:9		tot:39
+
+14/12
+lan:1,50+3,65+3
+almoço:23,90		tot:37,05					TOTAL PARCIAL:978,76                    MEDIA PARCIAL:69,91
+gas:5
+
+15/12
+gas:5
+lan:2,30
+credito:7
+panificadora:9		tot:48,55
+espetinho:25,25
+
+16/02
+gas:20,75+4+10
+luz:115,06
+cabeção:7
+pastel:2,50
+lan:1,40
+aluguel:470	tot:630,71
+
+17/12
+gas:5+10
+panificadora:10,57
+cerveja:14		tot:39,57					TOTAL PARCIAL:1658,02                    MEDIA PARCIAL:97,53
+
+18/12
+gas:5
+remedio:2,60				tot:55,35
+panificadora:10(descontar 2,50 da pri)
+cerveja:16
+lanche+cerveja:21
+coca:3,25
+
+19/12
+gas:10
+panificadora:29,67
+lanche:34,50
+leite:1		tot:75,17						TOTAL PARCIAL:1788,54                    MEDIA PARCIAL:94,13
+
+
+20/12
+mercado:19,60		tot:19,60
+
+21/12
+lan:0,60+1
+gas:5+5
+pneu:6
+jhe:15
+panificadora:6,84
+onibus:2,90
+agua:1
+porção:42
+brinquedos:10		tot:95,34					TOTAL PARCIAL:1903,48                    MEDIA PARCIAL:90,64
+
+22/12
+gas:20
+lanche:6
+impostos(moto):300
+patio moto:160		tot:487,50
+lan:0,50+1
+
+23/12
+lan:1,60
+credito:7			tot:77,85
+presente pedro+bone:69,25
+
+24/12
+panificadora(iogurte pedro):2,40	tot:2,40				TOTAL PARCIAL:2471,23                    MEDIA PARCIAL:102,96
+
+25/12
+gas:10
+bar:1+2,5
+picole:8			tot:21,5
+
+26/12
+mercado:30+21,70		tot:51,7					TOTAL PARCIAL:2544,43                    MEDIA PARCIAL:97,86
+
+27/12
+0,0				tot:0,0						TOTAL PARCIAL:2544,43                    MEDIA PARCIAL:94,23	
+
+28/12
+lan:1,20+0,50
+gas:5				tot:6,70					TOTAL PARCIAL:2551,13                    MEDIA PARCIAL:91,11
+
+29/12
+jhe:50
+cerveja:5
+gas:5+5
+lan:1,70
+bcp:38
+cerveja:26			tot:130,70
+
+30/12
+panficadora:48,25
+credito:7
+cigarro:7,5
+lanche:20
+fraldas:17			tot:99,75
+
+31/12
+cerveja:13,5+12+12
+mercado atacadao:87,12
+mercado almayer:20
+gas:5				tot:149,62
+				
+				\\\\\ TOTAL FINAL DEZEMBRO:2931,20        MEDIA FINAL:94,55        bcp:38    scp:0    TOTAL ANUAL:49578,28/////////
+
+
+01/1/16
+cerveja:29	tot:29
+
+02/1/16
+gas:5			tot:49,56
+cigarro:7,5
+panificadora:9,56
+lanche:23,5
+refri:4
+
+03/1/16
+mercado:20,39		tot:20,39					TOTAL PARCIAL:98,95                    MEDIA PARCIAL:32,98
+
+04/1/16
+gas:20+10
+cerveja:5
+almoço:28,74
+jhe:20			tot:117,49
+panificadora: leite:2
+panificadora:8
+picole:3,75
+lanche:20
+
+05/1/16
+lan:2
+mercado:30,97
+panificadora:27,57
+aluguel:600-250(mae deu 300 - 50 emprestei)
+cerveja + chips:9+5
+gas:5			tot:429,54
+
+06/1/16
+LAN:2,5+4,5
+credito:7		tot:53,5
+pizza:39,5
+
+07/1/16
+gas:5+10
+cerveja:29+29
+cigarro:7,5
+mudança:150		tot:230,50
+
+08/1/16
+gas:5+10+4,25
+lan:2,45
+coca:6			tot:27,7					TOTAL PARCIAL:957,68                    MEDIA PARCIAL:119,71
+
+09/1/16
+panificadora:11,27
+panificadora:44,45
+lan:1+2,35
+panificadora:92,10
+cerveja:10+20		tot:181,17
+
+10/1/16
+0,0			tot:0,0						TOTAL PARCIAL:1138,85                    MEDIA PARCIAL:113,88
+
+11/1/16
+gas:7
+cerveja:5+5+10
+espetinho:7		tot:44						TOTAL PARCIAL:1182,85                    MEDIA PARCIAL:107,53
+jhe:10
+
+12/1/16
+gas:5
+jhe:5
+almoço:23,15
+refri:5
+panificadora:31,62	tot:71,27					TOTAL PARCIAL:1254,12                    MEDIA PARCIAL:104,51
+lan:1,5
+
+13/1/16
+gas:5+10
+lan:1			tot:34						TOTAL PARCIAL:1288,12                   MEDIA PARCIAL:99,08
+refri:5
+credito:7
+t tomada:6
+
+14/1/16
+gas:5
+lan:2,7+3,7
+panificadora:3,49+12,5	tot:27,39
+
+15/1/16
+gas:5+5+10
+jhe:10
+cerveja:6		tot:36						TOTAL PARCIAL:1351,51                   MEDIA PARCIAL:90,10
+
+16/1/16
+lan:2,25
+panificadora:4,20
+lanche calhero:14	tot:20,45					TOTAL PARCIAL:1371,96                   MEDIA PARCIAL:85,74
+		
+
+17/1/16
+panificadora:76,46
+cerveja:7		tot:83,46					TOTAL PARCIAL:1455,42                   MEDIA PARCIAL:85,61
+
+18/1/16
+gas:5+3,20
+tubaina:2		tot:48,53
+agua:1,5
+conta agua:31,83
+jhe:5
+
+
+19/1/16
+gas:5
+pastel:4		tot:9
+
+20/1/16
+credito:7
+gas:5+4,5		tot:21						TOTAL PARCIAL: 1533,95                  MEDIA PARCIAL:76,69
+coca:2,5
+paza:2
+
+21/1/16
+cerveja:18,5		tot:81,5
+gas:63
+
+
+22/1/16
+gas:5+5(junto com os 5 da jhe)
+jhe:5
+cenoura:5		tot:28						TOTAL PARCIAL:1643,45                  MEDIA PARCIAL:74,70
+panificadora:4
+agua+guarana:4
+
+23/1/16
+cerveja:5+5+5+5+
+suco:4
+panificadora:18,6(nota 68,6 jhe deu 50)
+panificadora:23,44
+jhe:20+15				tot:101,04
+
+24/1/16
+jhe:3					tot:3				TOTAL PARCIAL:1747,9                  MEDIA PARCIAL:72,82
+
+25/1/16
+gas:5+4+5					tot:16
+lan:2
+
+26/1/16
+mercado:19,4
+gas:5
+oleo:10
+espetinho:30
+cerveja:21				tot:138,4			TOTAL PARCIAL:1902,30                  MEDIA PARCIAL:73,16
+beca:50(total 75 mae deu 25)
+lan:3
+
+27/1/16
+gas:5					
+lan:2,5					tot:7,5	
+
+
+28/1/16
+diferença roupa:4
+roupa pedro:145
+unha:30
+desodorante:23
+roupa shaloon:139			tot:388
+credito:7(27/1 certo)
+mercado:20
+gas:20
+
+29/1/16
+mercado:10
+cerveja:20
+gas:5					tot:35
+
+30/1/16
+mercado:254,88
+paza:5
+gas:20					tot:279,88
+
+31/1/16
+cerveja:10				tot:10
+
+					\\\\\ TOTAL FINAL JANEIRO:2622,68        MEDIA FINAL:84,60        bcp:0    scp:0    TOTAL ANUAL:2622,68/////////
+
+1/2/16
+gas:20
+cerveja:5+5+5+5
+espetinho:12			tot:52
+
+2/2/16
+gas:5
+conta luz:120(era 130 mae deu 10)
+material escolar:42			tot:167
+
+3/2/16
+conserto moto:17
+jhe:10
+gas:20+5				tot:62					TOTAL PARCIAL:281                  MEDIA PARCIAL:93,66
+credito:7
+lan:3
+
+4/2/16
+gas:5
+jhe:17
+cerveja:12+6				tot:40
+
+5/2/16
+cafe:12
+gas:5+4					tot:43
+panificadora:3
+jhe:1
+almoço:18
+
+6/2/16
+cerveja:30
+lan:2,5
+gas:4,5					tot:37
+
+7/2/16
+panificadora:24,4(mae deu 19 jhe deu 7)	tot:-1,6				TOTAL PARCIAL:399,4                  MEDIA PARCIAL:57
+
+8/2/16
+mercado:4
+cerveja:30
+coca:5					tot:39
+
+9/2/16
+gas:5
+cerveja:9				tot:14					TOTAL PARCIAL:452,4                  MEDIA PARCIAL:50,26
+
+10/2/16
+chuveiro:35
+gas:5
+lan:2
+lanche:7,25
+cigarro:7,5				tot:123,52
+credito:7
+panificadora:13,27
+espetinho:46,50
+
+11/2/16
+aluguel:542
+lan:2,35+2,5
+cafe:10					tot:617,17
+panificadora:60,32
+
+12/2/16
+coca:2
+gas:5					tot:7
+
+13/2/16
+lan:1,15
+gas:7
+panificadora:14,97+20,40+18,65+5,98	tot:68,15
+
+14/2/16
+carvao:12				tot:46,12
+panificadora:1,61+32,51
+
+15/2/16
+gas:5+5
+lan:1,10+1,9+2,25
+coca:1+2
+almoço:19				tot:37,25
+
+16/2/16
+cerveja:30
+lan:1,45+1
+gas:5
+panificadora:9,64			tot:47,09
+
+17/2/16
+jhe:0,60+0,75				tot:281,10
+cerveja:10
+coca:5
+agua+luz:250
+tim:7
+cafe:2,75
+gas:5
+
+18/2/16					tot:366,99			TOTAL PARCIAL:2046,79                  MEDIA PARCIAL:113,71
+gas:10+5+10+12
+cerveja:15
+pneu:55
+coca:2
+cafe:8,5
+lanche:11,5
+b.c.p:80+140
+fraldas:17,99
+
+19/2/16
+impressao:0,20
+lan:1,8+0,50				tot:2,5
+
+20/2/16
+tubaina:2				tot:2
+
+21/2/16
+miguel:10				tot:10				TOTAL PARCIAL:2061,29                 MEDIA PARCIAL:98,15
+
+
+22/2/16
+bebida:4,85				tot:5,85
+lan:1
+
+23/2/16
+lan:4
+gas:10+20
+lanche:7,30
+panificadora:3,4
+atacadao:328,47				tot:381,17
+cerveja:1,5+3,25+3,25
+
+24/2/16
+pastel:2
+lan:3,65
+miguel:550				tot:598,34
+agua:35,69	
+credito:7
+
+25/2/16
+mercado:8,80
+lan:3
+gas:5
+gas:10
+almoço:32				tot:58,8
+
+26/2/16
+panificadora:1,03
+chips:3
+cerveja:2				tot:6,03			TOTAL PARCIAL:3111,48                 MEDIA PARCIAL:119,67
+
+27/216
+lanche:24
+gas:5
+panificadora:0,86			tot:29,86			TOTAL PARCIAL:3141,34                 MEDIA PARCIAL:116,34
+
+28/2/16
+farmacia:9,89+7,90			tot:58,04
+cerveja:12
+cerveja:12,5
+mercado:13,5
+leite:2,25
+
+29/2/16
+almoço:30,17
+gas:20
+cerveja:13				
+lanche:24,5
+					\\\\\ TOTAL FINAL FEVEREIRO:3287,05        MEDIA FINAL:113,34        bcp:220    scp:0    TOTAL ANUAL:5909,73/////////
+
+1/3/16
+panificadora:3,5
+lanche:6,8
+gas:10+5
+jhe:20					tot:46,3
+pao:1
+
+2/3/16
+lan:2
+almoço:16				tot:53,37
+beal:14
+farmacia:14,61
+panificadora:6,76
+
+3/3/16
+lan:2,5
+cafe:2,75
+gas:5					tot:48,25
+pizza:38
+
+4/3/16
+bala:0,25
+cerveja:5
+almoço:28
+cafe:4,75
+gas:4					tot:42
+
+5/3/16
+panificadora:71,41			tot:95,47
+lanche:15
+panificadora:9,06
+
+6/3/16
+mercado miguel:54,75			tot:54,75			TOTAL PARCIAL:340,14                 MEDIA PARCIAL:56,69
+
+7/3/16
+luz:72,46
+lanche:7,25
+gas:5+4					tot:88,71
+
+8/3/16
+gas:4					tot:49
+lanche:15
+jhe:30
+
+9/3/16
+cafe:2,75
+credito:7				tot:9,75			TOTAL PARCIAL:487,6                 MEDIA PARCIAL:54,17
+
+10/3/16
+gas:5
+cafe:2,75				tot:31,35
+mercado:8,60
+bar:15
+
+11/3/16
+gas:5
+mercado:50
+cerveja:10				tot:65
+
+12/03/16
+gas:5
+aluguel:450
+lan:2,5					tot:457,5			TOTAL PARCIAL:1041,45                 MEDIA PARCIAL:86,78
+
+13/03/16
+mercado:32
+jhe:10+4				tot:46
+
+14/03/16
+cafe:3,20				tot:32,65			TOTAL PARCIAL:1120,10                 MEDIA PARCIAL:80
+lanche:8,25
+gas:5
+lan:2
+mercado:14,2
+
+15/03/16
+almoço:17
+lan:1,5
+mercado:22				tot:45,5			TOTAL PARCIAL:1165,60                 MEDIA PARCIAL:77,7
+gas:5
+
+16/03/16
+almoço:14,9
+cerveja:2,5
+gas:10
+coca:3					tot:30,4			TOTAL PARCIAL:1196               MEDIA PARCIAL:74,75
+
+17/03/16
+tim:7
+almoço:11,5				tot:54,5			TOTAL PARCIAL:1250,5             MEDIA PARCIAL:73,55
+pizza:36
+
+18/03/16
+lanche:15,5				tot:15,5
+
+19/03/16
+panificadora:7,34			tot:7,34			TOTAL PARCIAL:1273,34             MEDIA PARCIAL:67
+
+20/03/16
+miguel carne:59
+cerveja:10
+mercado:4				tot:73
+
+21/03/16
+cigarro jhe:8,25
+gas:5 +6 				tot:35,10			TOTAL PARCIAL:1381,44             MEDIA PARCIAL:65,78
+mercado:15,85
+
+22/03/16
+cafe:2,75
+leite:4,4
+espetinho:9				tot:15,9			TOTAL PARCIAL:1397,34             MEDIA PARCIAL:63,51			
+
+23/03/16
+espetinho:9
+miguel:25
+cerveja:35 + 4 +4 +60
+gas:20 + 4				tot:161
+
+
+24/3/16
+almoço:13
+cafe:2,75
+gas:5					tot:20,75
+
+25/3/16
+frutaria carne:50
+credito:7
+panificadora:26,98
+agua:67,18				tot:159,91			TOTAL PARCIAL:1739             MEDIA PARCIAL:69,56
+cerveja:8,75
+
+26/3/16
+panificadora:14
+pizza:39				tot:53				TOTAL PARCIAL:1792             MEDIA PARCIAL:68,92
+
+27/3/16
+gas:4
+panificadora:18,23			tot:22,23			TOTAL PARCIAL:1814,23          MEDIA PARCIAL:67,19
+
+28/3/16
+panificadora:13,23
+gas:5 + 4
+cerveja:2,75				tot:24,98			TOTAL PARCIAL:1839,21          MEDIA PARCIAL:65,68
+
+29/3/16
+farmacia:48,08
+cerveja+cigarro:30,75			tot:94,98
+gas:5
+hals:2,4
+cerveja:3,40 + 3,40
+lan:1,95
+
+30/3/16
+lan:3,5
+gas:6 + 15
+almoço:28				tot:79,5			TOTAL PARCIAL:2013,69          MEDIA PARCIAL:67,12
+lanche:27
+
+31/3/16	
+credito:7
+gas:5
+panificadora:43				tot:55
+
+
+					\\\\\ TOTAL FINAL MARÇO:2068,69        MEDIA FINAL:66,73        bcp:0   scp:0    TOTAL ANUAL:7978,42/////////
+
+1/4/2016
+alcool:10+20
+almoço:34,15
+gas:5
+jhe:10					tot:359,49
+miguel(cerveja):60
+luz:188,34
+espetinho:12
+cerveja:20
+
+2/4/16
+alcool:8
+mercado:15				tot:23				TOTAL PARCIAL:382,49          MEDIA PARCIAL:191,24
+
+3/4/16
+0:0					tot:0				TOTAL PARCIAL:382,49          MEDIA PARCIAL:127,49
+
+4/4/16
+gas:5
+alcool:10				tot:20,5			TOTAL PARCIAL:402,99          MEDIA PARCIAL:100,74
+cerveja:5,5
+
+5/4/16
+almoço:8				tot:444
+jhe:10
+lanche:26
+conserto carro:400
+
+6/4/16
+gas:7 + 10 + 20
+lanche:8,20
+coca:3,5
+farmacia:200
+jhe:30					tot:278,7
+
+7/4/16
+cerveja:5 + 5				tot:10
+
+
+8/4/16
+almoço:55
+credito:7
+cerveja:3,4
+panificadora:2,79			tot:163,66
+cabo chupeta:32,47
+lanche(dois salada mae):33
+gas:10 + 20
+
+9/4/16
+gas:10 + 10
+atacadao:47,57				tot:71,07
+leite:3,5
+
+
+10/4/16
+cerveja(POSTO bud):4,25			tot:4,25			TOTAL PARCIAL:1374,67          MEDIA PARCIAL:137,46
+
+11/4/16
+cafe:4,25
+alcool:12				tot:16,25
+
+12/4/16
+mercado miguel:9
+almoço:28				tot:58,75
+espetinho:21,75
+
+13/4/16
+conserto carro:200
+gas:5
+alcool:20 + 20	+ 20			tot:265				TOTAL PARCIAL:1714,76          MEDIA PARCIAL:131,90
+
+
+14/4/16
+aluguel:450
+alcoo:10
+bcp:225 + 10
+gas:10					tot:705
+
+15/4/16
+gas:6					tot:6
+
+16/4/16
+alcool:20 + 20 				tot:40				TOTAL PARCIAL:2465,76          MEDIA PARCIAL:154,11	bcp:235   scp:0
+
+17/4/16
+0:0					tot:0				TOTAL PARCIAL:2465,76          MEDIA PARCIAL:145	bcp:235   scp:0
+
+18/4/16
+pizza:30				tot:30				TOTAL PARCIAL:2495,76          MEDIA PARCIAL:138,65	bcp:235   scp:0
+
+19/4/16
+credito:7
+agua:54,78
+alcool:20				tot:256,78
+cerveja:10 + 2,75 +2,75
+doação:0,50
+scp:159
+
+20/4/16
+jhe salao:22
+alcool:20 + 10				tot:52
+
+21/4/16
+mercado miguel:16,25
+mercado muffato:78,23
+mercado muffato:75,35(total nota 145,35)
+panificadora:11,47				tot:187,39		TOTAL PARCIAL:2991,93          MEDIA PARCIAL:142,47	bcp:235   scp:159
+coca:6,09
+
+22/4/16
+alcool:10 + 10
+cerveja:4					tot:24			TOTAL PARCIAL:3015,93          MEDIA PARCIAL:137	bcp:235   scp:159
+
+23/4/16
+alcool:20
+credito:7
+mercado miguel:3
+maguila cerveja+porção:30			tot:60			TOTAL PARCIAL:3075,93          MEDIA PARCIAL:133,73	bcp:235   scp:159
+
+24/4/16
+0:0						tot:0			TOTAL PARCIAL:3075,93          MEDIA PARCIAL:128,16	bcp:235   scp:159
+
+25/4/16
+panificadora:27,16
+mercado:10,96
+lanche:12
+lan:5
+bateria carro:130
+alcoo:20 + 10					tot:209,72		TOTAL PARCIAL:3285,65          MEDIA PARCIAL:131,42	bcp:235   scp:159
+
+26/4/16
+gas:20 + 4 + 20 + 20 + 7 / 
+lanche:11,5
+lan:0,75
+almoço:34					tot:117,25
+
+27/4/16
+cerveja:12,5
+gas:25 + 20 + 18
+pinhao:12					tot:401,68
+conserto carro:270
+muffato:44,18
+
+28/4/16
+pizza:45
+gas:20 + 20
+lan:1,5						tot:116,50		TOTAL PARCIAL:3921,08          MEDIA PARCIAL:140,03	bcp:235   scp:159
+conserto carro:30
+
+29/4/16
+panificadora:50
+diesel:30 + 15 
+gas:10
+estar:1
+almoço:27
+cafe:8,5					tot:141,5
+
+30/4/16
+cerveja:7,5 + 45
+gas:10
+vinho:7
+vinho + coca:22,50				tot:92
+
+					
+					\\\\\ TOTAL FINAL ABRIL:4154,58        MEDIA FINAL:138,48        bcp:235   scp:159    TOTAL ANUAL:12133/////////
+
+
+1/5/16
+farmacia:32,97				tot:32,97
+
+2/5/16
+credito:7
+luz:159,95
+chuveiro+magueira:54,80
+cerveja:15,5				tot:237,25
+
+3/5/16
+diesel:40 + 25
+consulta serasa:5
+auto eletrica:50			tot:132,56
+panificadora:12,56
+
+4/5/16
+almoço:33,12				tot:53,12
+diesel:20
+
+5/5/16
+jhe cigarro:9				tot:63,5				TOTAL PARCIAL:519,4         MEDIA PARCIAL:103,88	bcp:0   scp:0
+cerveja:24 + 9
+almoço:21,5
+
+6/5/16
+diesel:20
+remedio:5				tot:149,5
+reppy bar:104
+panificadora:10,50
+cerveja:10
+
+7/5/16
+panificadora:61(jhe deu 7)		tot:81					TOTAL PARCIAL:749,9         MEDIA PARCIAL:107,12	bcp:0   scp:0
+diesel:20
+
+8/5/16
+smir:11					tot:11					TOTAL PARCIAL:760,9         MEDIA PARCIAL:95,11		bcp:0   scp:0
+
+9/5/16
+credito:7				tot:7					TOTAL PARCIAL:767,7         MEDIA PARCIAL:85,32		bcp:0   scp:0
+
+10/5/16
+farmacia:2
+cerveja:10
+diesel:20
+almoço:24				tot:56					TOTAL PARCIAL:823,7         MEDIA PARCIAL:82,37		bcp:0   scp:0
+
+11/5/16
+panificadora:77,16
+panificadora(carvao):10,99		tot:88,15
+
+12/5/16
+diesel:30
+					tot:30					TOTAL PARCIAL:941,85         MEDIA PARCIAL:78,48	bcp:0   scp:0
+13/5/16
+agua:38,15
+cerveja+refri:34
+cerveja:20
+diesel:30 + 12
+doação:1,85				tot:236
+aluguel:100
+
+14/5/16
+almoço:59,5				tot:59,5				TOTAL PARCIAL:1237,35         MEDIA PARCIAL:88,38	bcp:0   scp:0
+
+15/5/16
+diesel:20
+mercado:1,65 + 24,5 + 31,5		tot:87,65
+almoço:10
+
+16/5/16
+conserto roupas:40
+cafe:5,5
+credito:7				tot:68,75
+smir:5,25
+cerveja:11
+
+17/5/16
+panificadora:8,77			tot:67,67				TOTAL PARCIAL:1461,42         MEDIA PARCIAL:85,96	bcp:0   scp:0
+coca:4,9
+almoço:22
+cafe:2
+diesel:30
+
+18/5/16
+gas:50 + 30
+conserto escort:50
+almoço:20,5
+pneu:50
+conserto silverado:650			tot:850,5
+
+19/5/16
+gas:5					tot:5
+
+20/5/16
+gas:5
+cerveja:13 + 5				tot:192
+panificadora:169
+
+21/5/16
+conserto pneu:6				tot:6
+
+22/5/16
+0:0					tot:0					TOTAL PARCIAL:2514,92         MEDIA PARCIAL:114,31	bcp:0   scp:0
+
+23/5/16
+telefone:127,79
+credito:7				tot:143,29
+cafe:1
+panificado:1,5
+gas:6
+
+24/5/16
+oleo:15
+gas:20					tot:46					TOTAL PARCIAL:2704,21         MEDIA PARCIAL:112,67	bcp:0   scp:0
+cerveja:11
+
+25/5/16
+cerveja:18
+gas:10 + 20
+almoço:25,8
+mercado beal:102,27			tot:176,07
+
+26/5/16
+chocolate pedro:5
+cerveja:10,5				tot:15,5				TOTAL PARCIAL:2895,78         MEDIA PARCIAL:111,37	bcp:0   scp:0
+
+27/5/16
+lanche:27				tot:27
+
+28/5/16
+mercado:0,30
+cerveja + cigarro:35,5			tot:35,8				TOTAL PARCIAL:2958,58         MEDIA PARCIAL:105,66	bcp:0   scp:0
+
+29/5/16
+0:0					tot:0					TOTAL PARCIAL:2958,58         MEDIA PARCIAL:102,02	bcp:0   scp:0
+
+30/5/16
+cafe:0,75
+credito:7				tot:7,75				TOTAL PARCIAL:2966,33         MEDIA PARCIAL:98,87	bcp:0   scp:0
+
+31/5/16
+calçado:2
+gas:30	
+lusitano:51				tot:83
+
+			
+				\\\\\ TOTAL FINAL MAIO: 3049,33       MEDIA FINAL:98,36        bcp:0   scp:0    TOTAL ANUAL:15.182,33/////////
+
+1/6/16
+gas:20+20
+almoço:31
+cigarro:4				tot:75
+
+2/6/16
+agua:35,08
+chocomilk:3				tot:84,98
+gas:20
+almoço:22,90
+chocolate:4
+
+3/6/16
+gas:20	
+remedio:5				tot:25			TOTAL PARCIAL:184,98         MEDIA PARCIAL:61,66	bcp:0   scp:0
+
+4/6/16
+0:0					tot:0			TOTAL PARCIAL:184,98         MEDIA PARCIAL:46,24	bcp:0   scp:0
+
+5/6/16
+coca+cerveja:11
+remedio:10,85				tot:21,85		TOTAL PARCIAL:206,83         MEDIA PARCIAL:41,36	bcp:0   scp:0
+
+6/6/16
+credito:7
+cafe:1,5
+cerveja:20				tot:59			TOTAL PARCIAL:265,83         MEDIA PARCIAL:44,30	bcp:0   scp:0
+espetinho:30,5
+
+7/6/16
+almoço:35				tot:55			TOTAL PARCIAL:320,83         MEDIA PARCIAL:45,83	bcp:0   scp:0
+escolinha pedro:20
+
+8/6/16
+gas:20					tot:20			TOTAL PARCIAL:340,83         MEDIA PARCIAL:42,60	bcp:0   scp:0
+
+9/6/16
+gas:20+20				tot:40			TOTAL PARCIAL:380,83         MEDIA PARCIAL:42,31	bcp:0   scp:0
+
+10/6/16
+estar:0,50				tot:16,5		TOTAL PARCIAL:397,33         MEDIA PARCIAL:39,73	bcp:0   scp:0
+shampoo jhe:16
+
+11/6/16
+farmacia:14,15+1,5			tot:95,65
+pizza:80
+
+12/6/16
+cerveja:20				tot:20			TOTAL PARCIAL:512,98         MEDIA PARCIAL:42,74	bcp:0   scp:0
+
+13/6/16
+panificadora:10,78			tot:10,78		TOTAL PARCIAL:523,76         MEDIA PARCIAL:40,28	bcp:0   scp:0
+
+14/6/16
+cartorio copias:30,30
+panificadora:21,79
+aluguel:650				tot:713,34
+lan+fotos:11,25
+
+15/6/16
+gas:50
+lan:2,75
+correio:18,70
+credito cel:7				tot:78,45
+
+16/6/16
+0:0					tot:0
+
+17/6/16
+cerveja:24
+gas:10					tot:34			TOTAL PARCIAL:1349,55         MEDIA PARCIAL:79,38		bcp:0  	scp:0
+
+18/6/16
+atacadao:222,61				tot:222,61
+
+19/6/16
+coca:7					tot:7
+
+20/6/16
+0:0					tot:0
+
+21/6/16
+gas:25
+almoço:14,5
+cerveja:6+6+9				tot:60,5		TOTAL PARCIAL:1639,66         MEDIA PARCIAL:78,07		bcp:0  	scp:0
+
+22/6/16
+0:0					tot:0			TOTAL PARCIAL:1639,66         MEDIA PARCIAL:74,53		bcp:0  	scp:0
+
+23/6/16
+0:0					tot:0			TOTAL PARCIAL:1639,66         MEDIA PARCIAL:71,28		bcp:0  	scp:0
+
+24/6/16
+atacadao:69,10
+gas:15
+coca:7,5				tot:91,6
+
+25/6/16
+gas:20					tot:27,35		TOTAL PARCIAL:1758,61         MEDIA PARCIAL:70,34		bcp:0  	scp:0
+mercado:7,35
+
+26/6/16
+Posto pedro:13,9
+posto bebida:8,35				
+					tot:22,25		TOTAL PARCIAL:1780,86         MEDIA PARCIAL:68,49		bcp:0  	scp:0
+
+27/6/16
+coca:5,4(moedas)			tot:65,65		TOTAL PARCIAL:1846,51         MEDIA PARCIAL:68,38		bcp:0  	scp:0
+panificadora:12,75
+cerveja:15
+lan:0,50
+doação:2
+almoço:23
+credito:7
+
+28/6/16
+gas:50
+pinhao:20				tot:240,04
+panificadora:20,04
+scp:150
+
+29/6/16
+almoço:33
+pizza:57				tot:90			TOTAL PARCIAL:2176,55         MEDIA PARCIAL:75,05		bcp:0  	scp:150
+
+30/6/16
+gas:50					tot:51,5
+manteiga cacau:1,5
+
+				\\\\\ TOTAL FINAL JUNHO:2228,05       MEDIA FINAL:74,26        bcp:0   scp:150    TOTAL ANUAL:17410,38/////////
+
+
+
+1/7/16
+almoço:8
+cerveja:20+5+5				tot:58
+lanche:20
+
+2/7/16
+panificadora:9,5			tot:146,5
+conserto moto:130
+mercado:7
+
+3/7/16
+0:0					tot:0			TOTAL PARCIAL:204,5         MEDIA PARCIAL:68,16		bcp:0  	scp:0
+
+
+4/7/16
+almoço:19
+gas:20					tot:72,82
+panificadora:33,82
+
+5/7/16
+panificadora:18				tot:18			TOTAL PARCIAL:295,32         MEDIA PARCIAL:59		bcp:0  	scp:100(mae deu)
+
+6/7/16
+pizza:35				tot:40,24
+panificadora:5,24
+
+7/7/16
+jhe:2
+lava-car:30				tot:128,16
+farmacia:3,31
+cerveja:12,5
+gas:60
+credito:7
+panificadora:13,35
+
+8/7/716
+pen-drive:30				tot:60
+corte cabelo:30
+
+9/7/16
+lago:18					tot:18			TOTAL PARCIAL:541,72         MEDIA PARCIAL:60,19		bcp:0  	scp:100(mae deu)
+
+
+10/7/16
+panificadora:14,91			tot:65,41
+mercado:38,5
+cerveja:12
+
+11/7/16
+aluguel:650
+gas:10 + 30 +20				tot:710
+
+12/7/16
+mercado:2				tot:37,5
+conserto carro:10
+credito:7
+suco:3,5
+remedio:5
+cerveja:10
+
+13/7/16
+gas:20 + 10
+almoço:26				tot:59,69		TOTAL PARCIAL:1414,32         MEDIA PARCIAL:108,79		bcp:0  	scp:100(mae deu)
+panificadora:3,69
+
+14/7/16
+gas:1					tot:1			TOTAL PARCIAL:1415,32         MEDIA PARCIAL:101			bcp:0  	scp:100(mae deu)
+
+15/7/16
+panificadora:1				tot:50,50
+jhe farmacia:40
+jhe lanche:9,5	
+
+16/7/16
+gas:30
+panificadora:5,99 + 12			tot:67,99		TOTAL PARCIAL:1533,81         MEDIA PARCIAL:95,86		bcp:0  	scp:100(mae deu)
+jhe:20
+
+17/7/16
+panificadora:5,21			tot:5,21
+
+18/7/16
+lan:1,65
+conta agua:34,64			tot:246,29
+m.c.p:60
+s.c.p:150
+
+19/7/16
+gas:50
+estacionamento:2
+lanche:17				tot:69
+
+20/7/16
+cerveja: 4+10 
+tubaina:2
+cigarro:8,5				tot:24,5		TOTAL PARCIAL:1878,81         MEDIA PARCIAL:93,94		bcp/mcp:60 	scp:250(mae deu 100)
+
+21/7/16
+cerveja:11				tot:11
+
+22/7/16
+credito:7
+cafe:5,5				tot:76,5
+refri:6
+mercado:58
+
+23/7/16
+gas:15					tot:46			TOTAL PARCIAL:2012,31         MEDIA PARCIAL:87,49		bcp/mcp:60 	scp:250(mae deu 100)
+melos:31
+
+24/7/16
+panificadora:2,29 + 9,23		tot:11,52
+
+25/7/16
+gas:20					tot:30,5
+estar:2
+jhe cigarro:8,5
+
+26/7/16
+jhe chocolate:8,99			tot:58,99
+gas:50
+
+27/7/16
+coca-cola:7,5				tot:9,5			TOTAL PARCIAL:2122,82         MEDIA PARCIAL:78,62		bcp/mcp:60 	scp:250(mae deu 100)
+halls:2
+
+28/7/16
+lan:4
+loterica:3,5				tot:7,5			
+
+29/7/16
+remedio:5
+lan + credito:9				tot:14			TOTAL PARCIAL:2144,32         MEDIA PARCIAL:73,94		bcp/mcp:60 	scp:250(mae deu 100)
+
+30/7/16
+lan:1,5	
+panificadora:9,36			tot:10,86		
+
+31/7/16
+0:0					tot:0:0
+
+			
+				\\\\\ TOTAL FINAL JULHO:2155,18       MEDIA FINAL:69,52        	bcp/mcp:60   	scp:250(mae deu 100)    TOTAL ANUAL:19565,56/////////
+
+1/8/16
+cerveja:10
+picole:6
+gas:30					tot:46
+
+2/8/16
+coca:2
+almoço:5,3				tot:12,3
+gas:5
+
+3/8/16
+gas:6					tot:6			TOTAL PARCIAL:64,3         MEDIA PARCIAL:21,43		bcp/mcp:0 	scp:0
+
+4/8/16
+almoço:53
+gas:20
+cerveja:10				tot:83			TOTAL PARCIAL:147,3         MEDIA PARCIAL:36,82		bcp/mcp:0 	scp:0
+
+5/8/16
+almoço:14				tot:195,34
+credito:7
+gas:5 + 5
+farmacia:13,84
+lan:0,50
+scp:150
+
+6/8/16
+gas:20					tot:275,34
+panificadora:7,34
+cerveja:28+20+20
+salgados(pedro):180
+
+7/8/16
+0:0					tot:
+
+8/8/16
+conserto carro:280			tot:280			TOTAL PARCIAL:897,98         MEDIA PARCIAL:112,24		bcp/mcp:0 	scp:150
+				
+
+9/8/16
+panificadora:6,19			tot:9,09
+doacao:1
+lan:1,9
+
+10/8/16
+0:0					tot:0:0			TOTAL PARCIAL:907,07         MEDIA PARCIAL:90,70		bcp/mcp:0 	scp:150
+
+11/8/16
+coca:7,5				tot:224,44
+coca:14
+atacadao:202,94
+
+12/8/16
+lanche:11,5
+curso php:80	
+lan:1,5					tot:177
+oleo:12
+hotel:72
+
+13/8/16
+peixe surubim:50			tot:72,85
+almoço:22,85
+
+14/8/16
+picole:10
+panificadora:18,77			tot:28,77
+
+
+15/8/16
+almoço:13				tot:53			TOTAL PARCIAL:1463,13         MEDIA PARCIAL:97,54		bcp/mcp:0 	scp:150
+gas:10 + 20
+conserto pneu:10
+
+16/8/16
+gas:50					tot:715,5			
+aluguel:650
+cerveja + smir:9,5
+coca:6
+
+17/8/16
+cerveja:10
+almoço:12
+cafe:3
+gas:20					tot:45			TOTAL PARCIAL:2223,63         MEDIA PARCIAL:130,80		bcp/mcp:0 	scp:150
+
+18/8/16
+gas:20					tot:24,9
+panificadora:4,9
+
+19/8/16
+0:0					tot:0
+
+20/8/16
+suco:1
+mercado:80,56				tot:81,56		TOTAL PARCIAL:2330,09         MEDIA PARCIAL:116,50		bcp/mcp:0 	scp:150
+
+21/8/16
+parque:16	
+panificadora:2,42
+credito:7
+cerveja:2,5				tot:27,92
+
+22/8/16
+cerveja:10				tot:10			TOTAL PARCIAL:2368,01         MEDIA PARCIAL:107,63		bcp/mcp:0 	scp:150
+
+23/8/16
+0:0					tot:0			TOTAL PARCIAL:2368,01         MEDIA PARCIAL:102,95		bcp/mcp:0 	scp:150
+
+24/8/16
+0:0					tot:0			TOTAL PARCIAL:2368,01         MEDIA PARCIAL:98,66		bcp/mcp:0 	scp:150
+
+25/8/16
+pizza:38				tot:38			TOTAL PARCIAL:2406,01         MEDIA PARCIAL:96,24		bcp/mcp:0 	scp:150
+
+26/8/16
+farmacia:18,49
+panificadora:10				tot:43,99
+tubaina:4
+lanche:11,5
+
+27/8/16
+cerveja:5
+almoço:18,35				tot:45,35
+hotel:22
+
+28/8/16
+agua:2
+mercado(cerveja):85			tot:120			TOTAL PARCIAL:2615,35         MEDIA PARCIAL:93,40		bcp/mcp:0 	scp:150
+carne assada:28
+algodao doce:5
+
+29/8/16
+gas:25+20				tot:65,75
+credito:7
+xerox:0,75
+almoço:13
+
+30/8/16
+jhe:1,20				tot:37,2
+panificadora:6
+almoço:30
+
+31/8/16
+cafe:6
+cerveja:15				tot:23
+bala:2
+
+			\\\\\ TOTAL FINAL AGOSTO:2741,3       MEDIA FINAL:88,42        	bcp/mcp:0   	scp:150    TOTAL ANUAL:22306,86/////////
+
+1/9/16
+farmacia:5
+agua:19,71				tot:24,71
+
+2/9/16
+almoço:19
+cafe:8,75				tot:47,25
+cerveja:4,5
+lanche:13
+agua:2
+
+3/9/16
+atacado:112,7				tot:118,7
+panificadora:6
+
+4/9/16
+0:0					tot:0			TOTAL PARCIAL:190,66         MEDIA PARCIAL:47,66		bcp/mcp:0 	scp:0
+
+5/9/16
+0:0					tot:0			TOTAL PARCIAL:190,66         MEDIA PARCIAL:38,13		bcp/mcp:0 	scp:0
+
+6/9/16
+pedro:4,5				tot:4,5
+
+7/9/16
+cerveja:9,25
+atacadao:20+25,37			tot:55,62		TOTAL PARCIAL:250,78         MEDIA PARCIAL:35,82		bcp/mcp:0 	scp:0
+pedro:1
+
+8/9/16
+0:0					tot:0			TOTAL PARCIAL:250,78         MEDIA PARCIAL:31,34		bcp/mcp:0 	scp:0
+
+9/9/16
+coca:6+4
+diesel:20				tot:52,5
+cerveja:10
+doces+cerveja:12,5
+
+10/9/16
+jhe:25
+mercado:2,75				tot:54,38
+panificadora:26,63
+
+11/9/16
+cerveja:20				tot:20			TOTAL PARCIAL:377,66         MEDIA PARCIAL:34,33		bcp/mcp:0 	scp:0
+
+12/9/16
+bone:20					tot:27,75		TOTAL PARCIAL:405,41         MEDIA PARCIAL:33,78		bcp/mcp:0 	scp:0	
+cafe:7,75
+
+13/9/16
+cafe:5,75
+credito:7
+almoço:19				tot:73,75
+mercado:42
+
+14/9/16
+gas:100					tot:142,1		TOTAL PARCIAL:621,26         MEDIA PARCIAL:44,37		bcp/mcp:0 	scp:0
+almoço:19
+mercado:5
+cerveja:18,10
+
+15/9/16
+0:0					tot:0
+
+16/9/16
+coca:5
+lan:2,5					tot:7,5			TOTAL PARCIAL:628,76         MEDIA PARCIAL:39,29		bcp/mcp:0 	scp:0
+
+17/9/16
+cerveja:18				tot:18	
+
+18/9/16
+0:0					tot:0			TOTAL PARCIAL:646,76         MEDIA PARCIAL:35,93		bcp/mcp:0 	scp:0
+
+19/9/16
+picole:3
+cerveja:16				tot:33			TOTAL PARCIAL:679,76         MEDIA PARCIAL:35,77		bcp/mcp:0 	scp:0
+mercado:14
+
+20/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:33,98		bcp/mcp:0 	scp:0
+
+21/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:32,36		bcp/mcp:0 	scp:0
+
+22/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:30,89		bcp/mcp:0 	scp:0
+
+23/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:29,55		bcp/mcp:0 	scp:0
+
+24/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:28,32		bcp/mcp:0 	scp:0
+
+25/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:27,19		bcp/mcp:0 	scp:0
+
+26/9/16
+0:0					tot:0			TOTAL PARCIAL:679,76         MEDIA PARCIAL:26,14		bcp/mcp:0 	scp:0
+
+27/9/16
+lanche:10				tot:10			TOTAL PARCIAL:689,76         MEDIA PARCIAL:25,54		bcp/mcp:0 	scp:0
+
+28/9/16
+lan:1,25				tot:6,25		TOTAL PARCIAL:696,01         MEDIA PARCIAL:24,85		bcp/mcp:0 	scp:0
+gas:5
+
+29/9/16
+panificadora:3,55			tot:9,55		TOTAL PARCIAL:705,56         MEDIA PARCIAL:24,32		bcp/mcp:0 	scp:0
+lan:2
+gas:4
+
+30/9/16
+gas:5
+cerveja:11+2+10				tot:40
+almoço:12
+
+
+			\\\\\ TOTAL FINAL SETEMBRO:745,56       MEDIA FINAL:24,85    	bcp/mcp:0   	scp:0    TOTAL ANUAL:23052,42/////////
+
+
+
+1/10/16
+conta telefone:114,22			tot:114,22
+
+2/10/16
+mercado beal:33,70			tot:33,70
+
+3/10/16
+gas:5
+credito:7				tot:68,15
+pneu:50
+panificadora:6,15
+
+4/10/16
+0:0					tot:0
+
+5/10/16
+jhe:10					tot:22			TOTAL PARCIAL:238,07         MEDIA PARCIAL:47,61		bcp/mcp:0 	scp:0
+cerveja:7
+gas:5
+
+6/10/16
+0:0					tot:0			TOTAL PARCIAL:238,07         MEDIA PARCIAL:39,67		bcp/mcp:0 	scp:0
+cerveja:7
+
+7/10/16
+cerveja:5+5+11
+gas:20+10
+almoço:33
+guincho:50				tot:162,5
+lanche:28,5
+
+8/10/16
+coca:5					tot:5
+
+9/10/16
+mercado miguel:49,5			tot:49,5		TOTAL PARCIAL:455,07         MEDIA PARCIAL:50,56		bcp/mcp:0 	scp:0
+
+10/10/16
+picole:5,9				tot:27,15
+almoço:12,25
+gas:4+5
+
+11/10/16
+mercado:68,14
+panificadora:83,86			tot:152
+
+12/10/16
+0:0					tot:0
+
+13/10/16
+agua:34,5
+luz:154,53				tot:194,78
+jhe:2
+cafe:3,75
+
+14/10/16
+pano de prato:10			tot:24,5
+almoço:14,5
+
+15/10/16
+gas:60					tot:60
+
+16/10/16
+0:0					tot:0				TOTAL PARCIAL: 913,5        MEDIA PARCIAL:57,09		bcp/mcp:0 	scp:0
+
+17/10/16
+aluguel:650
+caldo de cana:3
+coca:7
+gas:5+3,5				tot:668,5
+
+18/10/16
+0:0					tot:0				TOTAL PARCIAL:1582          MEDIA PARCIAL:87,88		 bcp/mcp:0 	 scp:0
+
+19/10/16
+beal:10					tot:10
+
+20/10/16
+credito:9
+lan:2+2
+conserto carro:18+90			tot:219,2
+gas:5
+panificadora:9
+pizza:18
+beal:66,20
+
+21/10/16
+cerveja:18
+almoço:18
+pneu moto:12				tot:458				TOTAL PARCIAL:2269,20          MEDIA PARCIAL:108,05		 bcp/mcp:0 	 scp:0
+lanche:20
+conserto carro:390
+
+22/10/16
+cerveja:5+15				tot:20
+
+23/10/16
+coca-cola:14				tot:14				TOTAL PARCIAL:2303,20          MEDIA PARCIAL:100,13		 bcp/mcp:0 	 scp:0
+
+24/10/16
+0:0					tot:0
+
+25/10/16
+0:0					tot:0				TOTAL PARCIAL:2303,20          MEDIA PARCIAL:92,12		 bcp/mcp:0 	 scp:0
+
+26/10/16
+0:0					tot:0				TOTAL PARCIAL:2303,20          MEDIA PARCIAL:88,58		 bcp/mcp:0 	 scp:0
+
+27/10/16
+credito:9
+pizza:35
+lan:0,75				tot:60,75
+cerveja:16
+
+
+28/10/16
+lan:2,5					tot:55				TOTAL PARCIAL:2418,95          MEDIA PARCIAL:86,39		 bcp/mcp:0 	 scp:0
+unha jhe:30
+cerveja:4
+espetinho:18,5
+
+29/10/16
+0:0					tot:0				TOTAL PARCIAL:2418,95          MEDIA PARCIAL:83,41		 bcp/mcp:0 	 scp:0
+
+30/10/16
+cerveja:32				tot:32
+
+31/10/16
+0:0					tot:0
+
+
+				\\\\\ TOTAL FINAL OUTUBRO:2450,95       MEDIA FINAL:79,06    	bcp/mcp:0   	scp:0    TOTAL ANUAL:25.503,37/////////
+
+
+1/11/16
+gas:8
+refri:7
+jhe:10
+miguel(acertos+cev):112			tot:247,64
+telefone:110,64
+
+2/11/16
+0:0					tot:0
+
+3/11/16
+pneus:65				tot:66,25			TOTAL PARCIAL:313,89          MEDIA PARCIAL:104,63		 bcp/mcp:0 	 scp:0
+cigarro:1,25
+
+4/11/16
+jhe:20					tot:23,5				
+leite:3,5
+
+
+5/11/16
+tarifas:39,10			tot:171,6			TOTAL PARCIAL:508,99          MEDIA PARCIAL:101,79		 bcp/mcp:0 	 scp:0
+pastel lago:14,5
+cerveja+superbonder:20
+pneu:8+60+30
+
+6/11/16
+mercado:3
+cerveja:11				tot:14
+
+7/11/16
+0:0
+					tot:0
+
+8/11/16
+gas:20+20				tot:270,04			TOTAL PARCIAL:793,03          MEDIA PARCIAL:99,12		 bcp/mcp:0 	 scp:0
+pastel lago:14,5
+cerveja:7
+doacao:5
+s.c.p:180
+mercado:38,04
+
+9/11/16
+cafe:10					tot:183,7
+peixe + comida pedro:9
+aquario pedro:16
+cerveja:16+6
+luz:126,7
+
+10/11/16
+coca:5
+cerveja:2				tot:7
+
+11/11/16
+0:0					tot:0
+
+12/11/16
+cerveja:17,5				tot:21
+comida peixe:3,5
+
+13/11/16
+cerveja:2+20				tot:22				TOTAL PARCIAL:1026,73          MEDIA PARCIAL:78,97		 bcp/mcp:0 	 scp:180
+
+14/11/16
+0:0					tot:0				TOTAL PARCIAL:1026,73          MEDIA PARCIAL:73,33		 bcp/mcp:0 	 scp:180
+
+15/11/16
+cerveja:18				tot:18
+
+16/11/16
+agua:44,94
+almoço:19				tot:72,94			TOTAL PARCIAL:1117,67         MEDIA PARCIAL:69,85		 bcp/mcp:0 	 scp:180
+credito:9
+
+17/11/16
+pedro bolinhas:5			tot:88,5
+surubim:83,5
+
+
+18/11/16
+almoço:25
+cafe:4,7				tot:29,7			TOTAL PARCIAL:1235,87         MEDIA PARCIAL:68,65		 bcp/mcp:0 	 scp:180
+
+19/11/16
+espetinho lago:10			tot:10
+
+20/11/16
+estacionamento:10
+cerveja:20				tot:30
+
+21/11/16
+aluguel:500				tot:500				TOTAL PARCIAL:1775,87         MEDIA PARCIAL:84,56		 bcp/mcp:0 	 scp:180
+
+22/11/16
+gas:5+5					tot:10				TOTAL PARCIAL:1785,87         MEDIA PARCIAL:81,17		 bcp/mcp:0 	 scp:180
+
+23/11/16
+0:0					tot:0				TOTAL PARCIAL:1785,87         MEDIA PARCIAL:77,64		 bcp/mcp:0 	 scp:180
+
+24/11/16
+caldo de cana:15			tot:32
+pao:2
+almoço:15
+
+25/11/16
+cerveja:13+10
+chips+cerveja:12			tot:42,75			TOTAL PARCIAL:1860,62         MEDIA PARCIAL:74,42		 bcp/mcp:0 	 scp:180
+cerveja:7,75
+
+26/11/16
+mercado:87,95				tot:87,95
+
+27/11/16
+0:0					tot:0				TOTAL PARCIAL:1948,57         MEDIA PARCIAL:72,16		 bcp/mcp:0 	 scp:180
+
+28/11/16
+0:0					tot:0				TOTAL PARCIAL:1948,57         MEDIA PARCIAL:69,59		 bcp/mcp:0 	 scp:180
+
+29/11/16
+fanta:6					tot:72,5
+cerveja:15
+pastel:11,5
+gas:20+20
+
+30/11/16
+almoço:19				tot:42,9
+cerveja:2+5
+doacao:1
+panificadora:15,9
+
+					\\\\\ TOTAL FINAL NOVEMBRO:2.063,97       MEDIA FINAL:68,79    	bcp/mcp:0   	scp:0    TOTAL ANUAL:27.567,34/////////
+
+
+1/12/16
+almoço:14				tot:14
+
+2/12/16
+0:0					tot:0
+
+3/12/16
+0:0					tot:0
+
+4/12/16
+0:0					tot:0			TOTAL PARCIAL:14         MEDIA PARCIAL:3,5		 bcp/mcp:0 	 scp:0
+
+5/12/16
+0:0					tot:0			TOTAL PARCIAL:14         MEDIA PARCIAL:2,8		 bcp/mcp:0 	 scp:0
+
+6/12/16
+0:0					tot:0			TOTAL PARCIAL:14         MEDIA PARCIAL:2,33		 bcp/mcp:0 	 scp:0
+
+7/12/16
+gas:20					tot:197,65
+desodorante:15
+s.c.p:150
+lan:1,65
+almoço:11
+
+8/12/16
+almoço+cerveja:42,5
+cafe:10
+doacao:2
+vestido jhe:30				tot:84,5		TOTAL PARCIAL:296,15         MEDIA PARCIAL:37,01	 bcp/mcp:0 	 scp:150
+
+
+9/12/16
+0:0					tot:0			TOTAL PARCIAL:296,15         MEDIA PARCIAL:32,90	 bcp/mcp:0 	 scp:150
+
+10/12/16
+porção + cerveja:87			tot:171,62
+corujao:13
+mercado:6
+almoço:18,5
+mercado(maioria cerveja):47,12
+
+11/12/16
+panificadora(janaina foi buscar):12	tot:25,5		TOTAL PARCIAL:493,27         MEDIA PARCIAL:44,84	 bcp/mcp:0 	 scp:150
+picole(pedro):13,5
+
+12/12/16
+cerveja+outros:9			tot:177,5		TOTAL PARCIAL:670,77         MEDIA PARCIAL:55,89 	bcp/mcp:0 	 scp:150
+mudança sobrado:140
+cigarro jhe:8,5
+gas:20
+
+13/12/16
+mercado:4,09				tot:98,77		TOTAL PARCIAL:769,54         MEDIA PARCIAL:59,19 	bcp/mcp:0 	 scp:150
+credito celular:9
+mercado:5,98
+panificadora:8,70
+internet:50
+lanche:21
+
+14/12/16
+gas:20					tot:108,8
+cerveja:20+20+10
+uva:10
+almoço:28,80
+
+
+15/12/16
+cigarro:8
+panificadora:7,49			tot:15,49
+
+16/12/16
+cerveja:18				tot:218			TOTAL PARCIAL:1.111,83         MEDIA PARCIAL:69,48 		bcp/mcp:0 	 scp:150
+montagem moveis:200
+
+17/12/16
+mercado:59,47				tot:59,47
+
+18/12/16
+
+19/12/16
+cerveja:16+6				tot:22
+
+20/12/16
+credito:9				tot:90			TOTAL PARCIAL:1283,30         MEDIA PARCIAL:64,16 		bcp/mcp:0 	 scp:150
+almoço+cerveja:45
+cafe:16
+gas:20
+
+21/12/16
+0:0					tot:0			TOTAL PARCIAL:1283,30         MEDIA PARCIAL:61,10 		bcp/mcp:0 	 scp:150
+
+22/12/16
+0:0					tot:0			TOTAL PARCIAL:1283,30         MEDIA PARCIAL:58,33 		bcp/mcp:0 	 scp:150
+
+23/12/16
+gas:10					tot:10
+
+24/12/16
+presente jhe:8				tot:47,54
+mercado:39,54
+
+25/12/16
+0:0					tot:0			TOTAL PARCIAL:1340,84         MEDIA PARCIAL:53,63 		bcp/mcp:0 	 scp:150
+
+
+26/12/16
+
+27/12/16
+credito:9				tot:56
+gas:20
+cerveja:9
+almoço:18
+
+28/12/16
+porcao:60				tot:60
+
+
+29/12/16
+picole:2				tot:48
+pizza:46
+
+30/12/16
+bcp/mcp:26				tot:96
+scp:50
+gas:20
+
+
+31/12/16
+almoço:26				tot:26
+
+
+			\\\\\ TOTAL FINAL DEZEMBRO:1626,84       MEDIA FINAL:52,47    	bcp/mcp:26   	scp:200    	TOTAL ANUAL:29,194.18/////////
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/1/17
+0:0			tot:0
+
+2/1/17
+lanche:26		tot:26
+
+3/1/17
+credito:9
+jhe:8			tot:38,45
+mercado:15,96
+mercado:5,49
+
+
+4/1/17
+caldo de cana:6		tot:31,13
+cerveja:10
+panificadora:15,13
+
+5/1/17
+conta tim:115,90	tot:120,90
+caldo de cana:5
+
+6/1/17
+leite:8			tot:18
+lanche:10
+
+7/1/17
+internet:50		tot:93
+acertos jhe:43
+
+8/1/17
+0			tot:0
+
+9/1/17
+0			tot:0				TOTAL PARCIAL:327,48         MEDIA PARCIAL:36,38 		bcp/mcp:0 	 scp:0
+
+10/1/17
+televisao:1799		tot:1799
+
+11/1/17
+luz:330,79+302,47	tot:633,26
+
+12/1/17
+0:0			tot:0
+
+13/1/1
+chocolate pedro:8	tot:8
+
+14/1/17
+0:0			tot:0
+
+15/1/17
+0:0			tot:0
+
+16/1/17
+0:0			tot:0
+
+17/1/17
+0:0			tot:0
+
+18/1/17
+0:0			tot:0			TOTAL PARCIAL:2767,64         MEDIA PARCIAL:153,76 		bcp/mcp:0 	 scp:0
+
+19/1/17
+almoço:33
+cerveja:17		tot:285,36
+itau:0,96+24,7
+agua casa antiga:44,84
+luz casa antiga:164,86
+
+20/1/17
+0:0			tot:0
+
+21/1/17
+0:0			tot:0
+
+22/1/17
+0:0			tot:0
+
+23/1/17
+lanche:13		tot:13
+
+24/1/17
+pizza:31		tot:31
+
+25/1/17
+gas:15			tot:71
+porçao:56
+
+26/1/17
+almoço:33		tot:59				TOTAL PARCIAL:3227         MEDIA PARCIAL:124,11 		bcp/mcp:0 	 scp:0
+cerveja:6
+gas:20
+
+27/1/17
+lanche:16		tot:16
+
+28/1/17
+lanche:12,5
+cerveja:21,5		tot:34
+
+29/1/17
+frango:28		tot:28
+
+30/1/17
+lanche:21(26 itau)	tot:111
+lusitano:90
+
+31/1/17
+credito:9		tot:125,40
+panificadora:16,40
+dei mae:100
+
+				\\\\\ TOTAL FINAL JANEIRO:3541,40       MEDIA FINAL:114,23    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:3541,4  TP:0  /////////
+
+
+1/2/17
+gas:10+20		tot:30
+
+2/2/17
+gas:10			tot:54,70
+almoço:20
+tarifa itau:24,70
+
+3/2/17
+0:0			tot:0
+
+
+4/2/17
+pedro lago:11		tot:107,99
+cerveja:63,5+16,24+17,25
+
+5/2/17
+0:0			tot:0
+
+6/2/17
+chave:7
+panificadora:7,5(30/01)	tot:14,5
+
+7/2/17
+pedro lago:16		tot:16
+
+8/2/17
+ferramenta:45		tot:45
+
+9/2/17
+ponteiras:5+2,5+3,8debito	tot:17,2
+panificadora:5,9
+
+
+10/2/17
+chawarma:4debito(jhe deu resto)	tot:4
+
+11/2/17
+cerveja:4,50debito	tot:58,24
+cerveja:2+30+21,74
+
+12/2/17
+0:0			tot:0					TOTAL PARCIAL:347,63         MEDIA PARCIAL:28,96 		bcp/mcp:0 	 scp:0
+
+13/2/17
+0:0			tot:0					TOTAL PARCIAL:347,63         MEDIA PARCIAL:26,74 		bcp/mcp:0 	 scp:0
+
+14/2/17
+gas:10+20			tot:1526
+jhe:35
+tim:9
+transferenciaUno:1252+200(cheques)
+
+15/2/17
+lanche:51			tot:51
+
+16/2/17
+0:0				tot:0
+
+17/2/17
+lanche(umuarama):18,5		tot:18,5
+
+18/2/17
+gastos:14+72+2,5		tot:88,5
+
+19/2/17
+0:0				tot:0
+
+20/2/17
+0:0				tot:0
+
+21/2/17
+0:0				tot:0
+
+22/2/17
+cafe:3,75			tot:3,75
+
+23/2/17
+cerveja:56			tot:56
+
+24/2/17
+cafe:9
+almoço:11
+cerveja:6			tot:26
+
+25/2/17
+0:0				tot:0
+
+26/2/17
+0:0				tot:0
+
+27/2/17
+0:0				tot:0				TOTAL PARCIAL:2117,38         MEDIA PARCIAL:78,42 		bcp/mcp:0 	 scp:0
+
+28/2/17
+caldoDeCana:4			tot:4
+
+				
+			\\\\\ TOTAL FINAL FEVEREIRO:2121,38       MEDIA FINAL:75,76    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:5662,78   /////////
+
+1/3/17
+0:0				tot:0
+
+2/3/17
+almoço:18			tot:42,7
+itau:24,7
+
+3/3/17
+0:0				tot:0
+
+4/3/17
+0:0				tot:0
+
+5/3/17
+0:0				tot:0
+
+6/3/17
+0:0				tot:0
+
+7/3/17
+lanche(umuarama):18,5		tot:33,48			TOTAL PARCIAL:76,18         MEDIA PARCIAL:10,88 		bcp/mcp:0 	 scp:0
+almoço(umuarama):14,98
+
+8/3/17
+porção:43			tot:43
+
+9/3/17
+cafe:3,5
+agua:2				tot:57,5			TOTAL PARCIAL:176,68         MEDIA PARCIAL:19,63 		bcp/mcp:0 	 scp:0
+jhe:2
+internet:50
+
+10/3/17
+choop:35			tot:46,95
+cerveja:11,95
+
+11/3/17
+0:0				tot:0
+
+12/3/17
+0:0				tot:0				TOTAL PARCIAL:223,63         MEDIA PARCIAL:18,63 		bcp/mcp:0 	 scp:0
+
+13/3/17
+cafe(debito):4
+credito tim:9			tot:13
+
+14/3/17
+0:0				tot:0
+
+15/3/17
+panificadora(deb):3,50+4	tot:7,5
+
+16/3/17
+gas:2,75
+mercado:18,79
+caldo d cana:12			tot:33,54			TOTAL PARCIAL:277,67         MEDIA PARCIAL:17,35		bcp/mcp:0 	 scp:0
+
+17/3/17
+gas:17				tot:17
+
+18/3/17
+almoço:13,76			tot:13,76
+
+19/3/17
+0:0				tot:0				TOTAL PARCIAL:308,43         MEDIA PARCIAL:16,23		bcp/mcp:0 	 scp:0
+
+20/3/17
+0:0				tot:0
+
+21/3/17
+0:0				tot:0
+
+22/3/17
+cerveja:4			tot:45,75
+porçao:41,75
+
+23/3/17
+cafe:5
+jhennifer:2			tot:71,04
+pedro:1
+cerveja(debito):32+31,04
+
+24/3/17
+mcp:35(lançarsiena)		tot:135
+scp:100(lançarsiena)
+
+25/3/17
+cerveja:16+16,57(debito)	tot:32,57
+
+26/3/17
+lanche:22,5			tot:31,5
+credito:9
+
+27/3/17
+0:0				tot:0				TOTAL PARCIAL:624,29         MEDIA PARCIAL:23,12		bcp/mcp:35 	 scp:100
+
+28/3/17
+cafe:4
+remedio:7,5			tot:20,5
+mercado:9
+
+29/3/17
+0:0				tot:0				TOTAL PARCIAL:644,79         MEDIA PARCIAL:22,23		bcp/mcp:35 	 scp:100
+
+30/3/17
+chips pedro:5
+espetinho:2
+lanche(debito):11		tot:18
+
+
+31/3/17
+atacadao(debito):13,27		tot:41,7
+almoço:11(5debito)
+lanche(debito):17,43
+	
+
+				\\\\\ TOTAL FINAL MARÇO:704,49       MEDIA FINAL:22,72    	bcp/mcp:35   	scp:100    	TOTAL ANUAL:6367,27   /////////
+
+
+1/4/17
+hotel:72
+almoço:18,62			tot:90,62
+
+2/4/17
+pedro(lago):8			tot:8
+
+3/4/17
+credito:9			tot:9				
+
+4/4/17
+sorvete pedro:4,70		tot:28,7				
+mercado:24
+
+5/4/17
+itau tarifa:25,90		tot:25,9
+
+6/4/17
+espetinho:10
+picole:1,5
+pao de queijo:1,85		tot:13,35
+
+
+7/4/17
+lanche(umuarama):18,5		tot:41,5
+dei jhe:20+2+1
+
+8/4/17
+hotel:64			tot:64
+
+9/4/17
+cerveja:9
+sorvete:6,75			tot:15,75			TOTAL PARCIAL:296,82        MEDIA PARCIAL:32,98		bcp/mcp:0	 scp:0
+
+10/4/17
+cafe:3,75			tot:53,75
+internet:50
+
+11/4/17
+almoço:42
+gas:20
+farmacia:7,49			tot:69,49
+
+12/4/17
+impressao jhe:1,5		tot:47,5
+pizza:46
+
+13/4/17
+0:0				tot:0
+
+14/4/17
+sorvete:5,5			tot:42,5
+cerveja:10
+pedro brinquedos:18
+picole:5
+doce pedro:4
+
+15/4/17
+lanche:9			tot:9				TOTAL PARCIAL:519,06        MEDIA PARCIAL:34,60		bcp/mcp:0	 scp:0
+
+16/4/17
+0:0				tot:0
+
+17/4/17
+credito:9			tot:84,63
+conta agua:75,63
+
+18/4/17
+gas:18
+cerveja:3
+impressao:1			tot:53,5
+bebidas:10,50
+lanche:21
+
+19/4/17
+credito:9			tot:9
+
+20/4/17
+remedios:13,5			tot:79,15
+cafe:4,5
+sorvete:6
+bolacha:6,5
+mercado:34,65
+espetinho:3
+smir:6
+cerveja:5
+
+21/4/17
+cerveja:10+10			tot:61				TOTAL PARCIAL:806,34       MEDIA PARCIAL:38,39		bcp/mcp:0	 scp:0
+jhennifer:1
+jhe emprestei:20+20
+
+22/4/17
+farmacia:8,92+6,94		tot:15,86
+
+23/4/17
+impressao:0,90
+lanche:25
+cafe:8,19
+miguel:14,85			tot:106,89
+itau:57,95	
+
+24/4/17
+gas:1				tot:118,96				
+gas cozinha:70
+remedios:10
+mercado:16,96
+panificadora:12
+credito:9
+
+25/4/17
+0:0				tot:0
+
+26/4/17
+0:0				tot:0
+
+27/4/17
+0:0				tot:0				TOTAL PARCIAL:1048,05       MEDIA PARCIAL:38,81		bcp/mcp:0	 scp:0
+
+28/4/17
+mercado:20			tot:150,68
+agua:2,5
+peguei emprestado:7
+hotel:70
+lanche:13
+jhennifer:27,50
+almoço(debito):10,68
+
+29/4/17
+0:0				tot:0
+
+30/4/17
+0:0				tot:0
+
+				
+								
+				\\\\\ TOTAL FINAL ABRIL:1198,73       MEDIA FINAL:39,95    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:7566 /////////
+
+
+
+1/5/17
+remedio:10
+gas:10				tot:35,54
+lanche:15
+tarifa itau:0,54
+
+2/5/17
+credito:9
+mercado:34,20			tot:57,20
+gas:10
+mercado:4
+
+3/5/17
+mercado:0,89+76,54		tot:77,43
+
+4/5/17
+itau iof:0,2
+bcp/mcp(s.fé):15+55+15+5	tot:187,79
+itau seguro(parcela3):51,59
+itau tarifa:25,90
+cafe:11,10
+cerveja:9
+
+5/5/17
+0:0				tot:0
+
+6/5/17
+cerveja(debito):4,75		tot:4,75
+
+7/5/17
+0:0				tot:0				TOTAL PARCIAL:362,71       MEDIA PARCIAL:51,81		bcp/mcp:0	 scp:0
+
+8/5/17
+dei jhhennifer:10		tot:10
+
+9/5/17
+0:0				tot:0
+
+10/5/17
+porção:45(debito)		tot:96,53
+seguro itau(parc.4):51,59
+
+11/5/17
+credito(diogo):9
+credito:(jhennifer):9		    tot:19,59
+agua:(diferença 51,49 debito):1,59
+
+12/5/17
+lanche(umuarama):11		tot:161,30
+almoço(umuarama):9,30
+gas:30
+casquinha:3
+cabelo:20
+cerveja:5
+dei jhennifer:18
+hotel:65(umuarama)						
+
+13/5/17
+0:0				tot:0
+
+14/5/17
+0:0				tot:0				TOTAL PARCIAL:650,13       MEDIA PARCIAL:46,43		bcp/mcp:90	 scp:0
+
+15/5/17
+mercado:19,81(debito)		tot:24,79
+mercado:4,98
+
+16/5/17
+jhe:33(140saque)		tot:73
+memoria notebook:40
+
+17/5/17
+mercado:5,95(debito)		tot:5,95
+
+18/5/17
+pizza(debito):68,83		tot:68,83
+
+19/5/17
+0:0				tot:0
+
+20/5/17
+0:0				tot:0
+
+21/5/17
+credito(jhe):10			tot:41,90
+almoço:31,90
+
+22/5/17
+barra cereal:5			tot:5				TOTAL PARCIAL:869,6       MEDIA PARCIAL:39,52		bcp/mcp:90	 scp:0
+
+23/5/17
+impressao:0,80			tot:42,7
+dei jhennifer:20
+chocolate:2
+curso(debito):19,90
+
+24/5/17
+credito:9
+mercado:52,39			tot:61,39	
+
+25/5/17
+pizza:46			tot:46				TOTAL PARCIAL:1019,69       MEDIA PARCIAL:40,78		bcp/mcp:90	 scp:0
+
+26/5/17
+lanche:14,50			tot:14,50
+
+27/5/17
+almoço(debito):19,85		tot:19,85
+
+28/5/17
+mercado:21,12			tot:95,62			TOTAL PARCIAL:1149,66       MEDIA PARCIAL:41,05		bcp/mcp:90	 scp:0
+hotel:65
+espetinho:9,5
+
+29/5/17
+mercado:19,93			tot:31,93
+espetinho:12
+
+30/5/17
+dei pedro:5			tot:5
+
+31/5/17
+mercado(debito):5,50		tot:5,9
+impressao:0,40
+
+
+
+				\\\\\ TOTAL FINAL MAIO:1192,49       MEDIA FINAL:38,46    	bcp/mcp:90   	scp:0    	TOTAL ANUAL:8758,46 /////////
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/6/17
+credito:9		tot:52,54
+mercado(debito):4,99
+lanche(debito):29
+tarifa ted itau:9,55
+
+2/6/17
+dei jhe:4		tot:4
+
+3/6/17
+itau:25,9
+itau:2,45		tot:28,35
+
+4/6/17
+0:0			tot:0
+
+5/6/17
+0:0			tot:0				TOTAL PARCIAL:84,89       MEDIA PARCIAL:16,97		bcp/mcp:0	 scp:0
+
+6/6/17
+padaria(debito):6,8		tot:37,28
+distribuidora(debito):30,48
+
+7/6/17
+padaria:6,59			tot:6,59
+
+8/6/17
+credito:9,75			tot:28,46
+diferença conta.agua:12,12
+mercado(debito):6,59
+
+
+9/6/17
+panificadora(deb.):17,5		tot:21
+agro(debito):3,5
+
+10/6/17
+hotel:(debito):75		tot:155,18
+almoço(debito):27
+festa mae:53,18
+
+11/6/17
+mercado:2			tot:2
+
+12/6/17
+seguro(debito):51,59		tot:51,59
+
+
+13/6/17
+panificadora(jhe):5		tot:36
+pizza(debito):31
+
+14/6/17
+mercado(debito):8,25		tot:54,25
+bebidas(debito):37,50
+mercado(debito):8,5
+
+15/6/17
+0:0				tot:0
+
+16/6/17
+0:0				tot:0			TOTAL PARCIAL:477,24       MEDIA PARCIAL:29,82		bcp/mcp:0	 scp:0
+
+17/6/17
+0:0				tot:0
+
+18/6/17
+ida zoologico(debito):26,96	tot:26,96		TOTAL PARCIAL:504,20       MEDIA PARCIAL:28,01		bcp/mcp:0	 scp:0
+
+19/6/17
+0:0				tot:0
+
+20/6/17
+0:0				tot:0
+
+21/6/17
+bebida:11,5+10+2,5:24
+espetinho:15			tot:45,56
+panificadora(debito):6,56
+
+22/6/17
+farmacia:14,90			tot:14,90
+
+23/6/17
+espetinho:28,5			tot:52,16
+mercado(debito):14,66
+credito:9
+
+24/6/17
+hotel:50(debito)		tot:50
+
+25/6/17
+0:0				tot:0
+
+26/6/17
+
+27/6/17
+cano chuveiro:1				tot:9,90
+canos chuveiro(debito):8,90
+
+
+28/6/17
+**materias(debito nao lançar):10,50	tot:0
+
+29/6/17
+acertos dei jhennifer:65		tot:137	
+pizza(debito):72
+
+30/6/17
+estacionamento:10			tot:-113,5
+lanche:13,5 
+coca:4,5
+gaterode:5
+jhe:0,50     
+DESCONTAR mae: -147
+
+
+				\\\\\ TOTAL FINAL JUNHO:700,22       MEDIA FINAL:23,34    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:9458,68 /////////
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/7/17
+almoço(debito):19		tot:19
+
+2/7/17	
+mercado(debito):76		tot:6
+DESCONTAR mae:70
+
+3/7/17
+mercado(debito):11,64		tot:21,14
+trident:1,5
+coca+chips:8
+
+4/7/17
+credito:9
+itau:25,90			tot:34,90
+
+5/7/17
+0:0				tot:0
+
+6/7/17
+bateria:140			tot:140
+
+7/7/17
+lanche:24,5			tot:48,5
+cerveja:24
+almoço(debito mãe pagou):66,45***
+
+8/7/17
+agua:2				tot:2
+
+9/7/17
+0:0				tot:0
+
+10/7/17
+xerox:2,85			tot:29,84
+gas:10
+remedio:16,99
+
+11/7/17
+halls:1				tot:1
+
+12/7/17
+dei jhe:15			tot:15
+
+13/7/17
+estar:2				tot:12				TOTAL PARCIAL:329,38      MEDIA PARCIAL:25,33		bcp/mcp:0	 scp:0
+gas:10
+
+14/7/17
+credito:9			tot:9
+lanche:12,50débito(mãe)
+
+15/7/17
+0:0				tot:0
+
+16/7/17
+0:0				tot:0				TOTAL PARCIAL:338,38      MEDIA PARCIAL:21,14		bcp/mcp:0	 scp:0
+
+17/7/17
+dei jhe:9,21
+sanepar(jhe pg)debito:39,21	tot:58,21
+mercado:(debito)49
+
+18/7/17
+credito:9
+lanche(debito):6,40		tot:15,40
+
+19/7/17
+pao de queijo(debito):12,50	tot:12,50
+
+20/7/17
+lago pedro:2			tot:2				TOTAL PARCIAL:426,49      MEDIA PARCIAL:21,32		bcp/mcp:0	 scp:0
+
+21/7/17
+impressao:2
+pizzaria debito(mae 50):3,49	tot:5,49
+
+22/7/17
+0:0				tot:0
+
+23/7/17
+0:0				tot:0
+
+24/7/17
+hotel(debito):65		tot:65
+
+25/7/17
+mercado(debito):40,81		tot:76,81
+luiz ajudante emprestei:20
+credito:16
+
+26/7/17
+cartorio:22			tot:22
+
+27/7/17
+maffini(debito lancei siena):73,50))	tot:1			TOTAL PARCIAL:596,79      MEDIA PARCIAL:22,10		bcp/mcp:0	 scp:0
+lago:1
+
+28/7/17
+0:0				tot:0
+
+29/7/17
+hotel:(debito mae deu 50)62	tot:12				TOTAL PARCIAL:581,79      MEDIA PARCIAL:20,06		bcp/mcp:0	 scp:0
+
+30/7/17
+0:0				tot:0
+
+31/7/17
+lanche:27,5			tot:27,5
+
+
+
+		\\\\\ TOTAL FINAL JULHO:609,29       MEDIA FINAL:19,65    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:10067,97 /////////
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/8/17
+0:0				tot:0
+
+2/8/17
+panificadora(debito):3,25	tot:29,15
+itau:25,90
+
+3/8/17
+celular:200			tot:200
+almoço(debito mae deu:36)
+
+4/8/17
+
+5/8/17
+mercado(debito):11,97		tot:40,97
+credito:9
+marmitas(debito):20
+
+6/8/17
+mercado(debito mae deu):68)	tot:0
+
+7/8/17
+mercado(debito):18,52		tot:18,52
+
+8/8/17
+mercado(debito):5,85		tot:5,85			TOTAL PARCIAL:294,49      MEDIA PARCIAL:36,81		bcp/mcp:0	 scp:0
+guardiano(siena):79))
+
+9/8/17
+mercado:3				tot:3
+construbem:(debito foi siena):24)
+
+10/8/17
+impressao+outros:2,50		tot:47,5
+debito siena:32,90)))
+porção+cerveja(debito):45
+
+11/8/17
+lanche(debito era 9/8):34	tot:34
+
+12/8/17
+0:0				tot:0
+
+13/8/17
+0:0				tot:0
+
+14/8/17
+0:0				tot:0
+
+15/8/17
+0:0				tot:0				TOTAL PARCIAL:378,99      MEDIA PARCIAL:25,26		bcp/mcp:0	 scp:0
+
+16/8/17
+pizza(debito):37,50
+pedro brinquedo(debito):35,99	tot:73,49
+
+17/8/17
+
+18/8/17
+materiais(debito siena):34,30	tot:0
+
+19/8/17
+hotel(umuarama debito):65
+lanche(debito):21,50
+farmacia(debito):17,88
+almoço(debito):17,90		tot:15,28 ( 125,28 - 110(mae deu))
+sorvete:3
+
+20/8/17
+chocolate pedro:4,75		tot:4,75
+
+21/8/17
+mercado(debito):68,36		tot:85,34			TOTAL PARCIAL:557,85      MEDIA PARCIAL:26,56		bcp/mcp:0	 scp:0
+sanepar(debito jhe pg):36,98)
+dei jhennifer:16,98
+
+22/8/17
+0:0				tot:0
+
+23/8/17
+0:0				tot:0
+
+24/8/17
+0:0				tot:0				TOTAL PARCIAL:557,85      MEDIA PARCIAL:23,24		bcp/mcp:0	 scp:0
+
+25/8/17
+0:0				tot:0
+
+26/8/17
+mercado:10,93			tot:10,93
+
+27/8/17
+carne(debito mae deu 20):65	tot:45
+
+28/8/17
+panificadora:5,70		tot:14,70
+credito:9
+
+29/8/17
+coca:8(debito)			tot:15
+cafe(debito):7
+
+30/8/17
+lanche(debito):27		tot:27
+
+31/8/17
+picole:4
+lago pedro:5
+pizza(debito):46,50		tot:55,5
+
+
+
+			\\\\\ TOTAL FINAL AGOSTO:725,98       MEDIA FINAL:23,41    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:10793,95 /////////
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/9/17
+gas:20
+moedas:1,85				tot:21,85
+
+2/9/17
+hotel(umuarama):65
+sorvete pedro:18
+impressao:0,40				tot:83,40
+
+3/9/17
+0:0
+
+4/9/17
+panificadora(debito):7,99		tot:121,39(mae deu 140)-18,61
+almoço(debito 50 reginaldo deu 12):38
+almoço(debito umuarama:):10
+farmacia(debito umuarama):18
+tarifa itau:25,90
+panificadora(umuarama):12,50
+credito:9
+
+5/9/17
+panificadora(debito):8,45		tot:108,45			TOTAL PARCIAL:195,09      MEDIA PARCIAL:39		bcp/mcp:0	 scp:0
+mercado+jhennifer:100
+
+6/9/17
+0:0					tot:0
+
+7/9/17
+picole pedro desfile:5			tot:47
+vanilda bebidas:15
+mellos:27
+
+8/9/17
+maffini(lancei siena):7			tot:0
+
+9/9/17
+mercado(debito):14,89			tot:64,89			TOTAL PARCIAL:306,98      MEDIA PARCIAL:34,10		bcp/mcp:0	 scp:0
+lanche:18
+cerveja:22
+spinner pedro:10
+
+10/9/17
+sharwarma:50				tot:55
+lago:5
+
+11/9/17
+gas:20					tot:70
+internet:50
+
+12/9/17
+mercado(debito):2,25
+mercado:14,89				tot:17,79
+impressao:0,65
+
+13/9/17
+gas(debito):30				tot:33,50
+panificadora(debito):3,50
+
+14/9/17
+lanche(debito):27			tot:81,95				TOTAL PARCIAL:565,22      MEDIA PARCIAL:40,37		bcp/mcp:0	 scp:0
+gas(debito $3pilhas):33
+jhennifer(debito):21,95
+
+15/9/17
+0:0					tot:0
+
+16/9/17
+0:0					tot:0
+
+17/9/17
+0:0					tot:0					TOTAL PARCIAL:565,22      MEDIA PARCIAL:33,24		bcp/mcp:0	 scp:0
+
+18/9/17
+credito:9
+impressao:3,70
+ingles:291				tot:363,70
+salao jhennifer:60
+
+19/9/17
+0:0					tot:0
+
+20/9/17
+0:0					tot:0
+
+21/9/17
+debito:4				tot:4
+
+22/9/17
+0:0					tot:0
+
+23/9/17
+hotel:65				tot:85,90
+almoço(umuarama debito):20,90
+
+24/9/17
+0:0					tot:0
+
+25/9/17
+tubaina:3				tot:12
+credito:9			
+
+26/9/17
+panificadora(debito):14			tot:47,5				TOTAL PARCIAL:1074,32      MEDIA PARCIAL:41,32		bcp/mcp:0	 scp:0
+gas:20
+espetinho pedro:6
+sorvete pedro:7,50
+
+27/9/17
+cafe:9,85				tot:625,99
+acerto itau jhennifer:567,78
+pao:2,25
+mercado(debito):46,11
+
+28/9/17
+mercado(debito):5,79			tot:5,79
+
+29/9/17
+panificadora:(umuarama_debito):14,20	tot:14,20
+
+30/9/17
+espetinho:13				tot:46,92(96,92 - 50MAE)
+agua:3
+hotel(debito):65
+almoço(umuarama_debito):15,92
+
+
+			\\\\\ TOTAL FINAL SETEMBRO:1767,22       MEDIA FINAL:58,90    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:12561,17       /////////			
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/10/17
+0:0			tot:0
+
+2/10/17
+credito:9		tot:31,75
+farmacia:18
+panificadora:4,75
+
+3/10/17
+0:0			tot:0
+
+4/10/17
+espetinho:2		tot:2
+
+5/10/17
+panificadora:3,90	tot:3,90
+
+6/10/17
+gas:20				tot:20
+gasolina+suco+cigarro:45
+
+7/10/17
+farmacia:17,90			tot:17,90
+
+8/10/17
+gas:20
+dei jhenniffer:5		tot:25	
+
+9/10/17
+cerveja+festacolonias+cafe+leite:85)))	tot:75
+
+10/10/17
+0:0				tot:0				TOTAL PARCIAL:175,55      MEDIA PARCIAL:17,55		bcp/mcp:0	 scp:0
+
+11/10/17
+0:0				tot:0
+
+12/10/17
+0:0				tot:0				TOTAL PARCIAL:175,55      MEDIA PARCIAL:14,62		bcp/mcp:0	 scp:0
+
+
+13/10/17
+corujao:11			tot:94
+bebidas santa:16
+loung prime:55
+posto gasoliona bebidas:10,50
+pao:1,50
+
+14/10/17
+coca+latinha pedro:9,50
+smirnoff:3,50			tot:57
+presente pedro:44
+
+15/10/17
+atacadao(mae deu 8):9,5
+jhennifer credito:6		tot:15,5
+
+16/10/17
+estacionamento:3
+estacionamento:5		tot:266
+ingles:190
+carotrio caçeres:68
+
+17/10/17
+atacadao:20,81
+coca:3				tot:23,81
+
+18/10/17
+remedio:6
+
+19/10/17
+remedio:17			tot:20,75			TOTAL PARCIAL:652,61        MEDIA PARCIAL:34,34		bcp/mcp:0	 scp:0
+cafe:3,75
+
+20/10/17
+credito:9
+lanche:9,50			tot:28,50
+remedios:10
+
+21/10/17
+almoço:5,50+7
+cerveja:1,89			tot:-17,61 (82,39-100mae deu)			TOTAL PARCIAL:663,5        MEDIA PARCIAL:31,59		bcp/mcp:0	 scp:0
+agua:3
+hotel:65
+
+22/10/17
+zoomprime:94,50			tot:94,50
+
+23/10/17
+remedio:10,90			tot:28,90
+dei patricia:10
+coca-cola:8
+
+24/10/17
+chupeta pedro:7,90
+cerveja:15
+cerveja+picole:20		tot:42,90
+
+25/10/17
+mercado:6,98
+cerveja:34			tot:40,98					TOTAL PARCIAL:870,78        MEDIA PARCIAL:34,83		bcp/mcp:0	 scp:0
+
+26/10/17
+dei jhennifer:40		tot:73,63
+mercado:20,06
+mercado:13,57
+
+27/10/17
+cabelo:12
+credito:9			tot:21
+
+28/10/17
+jhennifer:2,75			tot:144,20
+doação:5
+posto smir+cerveja:9,75
+posto cerveja+trident:5
+casa sergio:31+7
+posto volta umuarama:54,80
+almoço umuarama:19,40
+cafe umuarama:9,50
+
+29/10/17
+mercado:27,84			tot:-258,76(41,24 - mae deu 300)		TOTAL PARCIAL:850,85        MEDIA PARCIAL:29,33		bcp/mcp:0	 scp:0
+credito jhe:9
+banana:4,4
+
+30/10/17
+loja 2real:10
+gas:20 + 50			tot:106,70
+itau:26,70
+
+31/10/17
+cartorio:150
+dei jhe cartorio:200		tot:375,18
+loja souza naves:8
+farmacia:17,18
+
+
+			\\\\\ TOTAL FINAL OUTUBRO:1332,73       MEDIA FINAL:42,99    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:13893,9        /////////			
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/11/17
+agua(debito):44,41		tot:138,71
+costureura jhenniffer:5
+gas:20
+bar santa fe:13
+sex shop:35
+picole pedro:2,50
+cerveja posto:2
+doce pedro posto:1,80
+dei jhe farmacia:15
+
+2/11/17
+mercado:89
+motel:70
+bar perto sergio:13,50
+gasolina:20
+bar sergio:8
+posto:10
+posto:13,50			tot:352
+internet:50
+gas:78
+
+
+3/11/17
+gas:30
+panificadora:11
+credito:9			tot:50
+
+4/11/17
+bar sergio:5 + 12
+distribuidora s.cruz:4,5
+distribuidora s.cruz:4,5
+cigarro:9,25
+gasolina:20			tot:55,25
+
+5/11/17
+itau:26,70			tot:26,70
+
+6/11/17
+0:0				tot:0
+
+7/11/17
+xerox:1,60			tot:1,60
+
+8/11/17
+0:0				tot:0
+
+9/11/17
+refri:6,5
+cigarro:9,25			tot:15,75
+
+10/11/17
+gas:20				tot:63
+bandeide:3
+cerveja:5+10+5+5+5+5+5		
+
+11/11/17
+depilação:50			tot:50
+
+12/11/17
+farinha:10			tot:-162	(totDia=38-200mae)		TOTAL PARCIAL:591,01        MEDIA PARCIAL:49,25		bcp/mcp:0	 scp:0
+cerveja(debito):9+9+10
+
+13/11/17
+almoço:24			tot:53,39
+cerveja:26
+refri:3,39
+
+14/11/17
+cerveja:5			tot:6,50
+picole pedro:1,50
+
+15/11/17
+cerveja sergio:5		tot:188,25
+posto picole+cerveja:9
+pgto cris:95
+cigarro jhe:9,25
+atacado + dei jhe:50
+cerveja:20
+
+16/11/17
+remedio jheniffer:10		tot:32,68
+credito jhennifer:10
+mercado:12,68
+
+17/11/17
+luz carro:15			tot:79,97( 129,97 - mae deu50)
+agua:83,45
+cerveja:19,08
+atacadao:12,44
+
+18/11/17
+tim:10
+mercado almoço:4,29		tot:47,79					
+dei pedro:7
+moedas jhennifer pegou:3
+cerveja:10
+cerveja+cigarro:13,50
+
+19/11/17
+0:0				tot:0					TOTAL PARCIAL:999,59        MEDIA PARCIAL:52,61		bcp/mcp:0	 scp:0
+
+20/11/17
+mercado:18,56			tot:18,56
+
+21/11/17
+panificadora:9,25		tot:9,25
+
+22/11/17
+cafe:5,50			tot:5,50
+
+23/11/17
+gas:20				tot:47,25
+picole pedro:9,50
+cerveja:15
+bolacha pedro:2,75
+
+24/11/17
+gas:20				tot:4,50 ( 204,50 -mãe deu 200)
+picole+coca:14,50
+dei jhe:10
+gas:160
+
+25/11/17
+zoom prime:125			tot:51,75 ( 187,75-mãe deu 136)		TOTAL PARCIAL:1136,40        MEDIA PARCIAL:45,45		bcp/mcp:0	 scp:0
+depilação jhe:30
+almoço:17,50
+energetico:5,25
+credito:10
+
+26/11/17
+carne:47,90			tot:47,90
+
+27/11/17
+caldo de cana:8
+gasolina:16
+mercado:4,89			tot:28,89
+
+28/11/17
+mercado:6,46			tot:6,46
+
+29/11/17
+pilha:2
+mercado(debito):36,14		tot:32,71(54,71-mãe deu 22)
+mercado(debito):16,57
+
+30/11/17
+coca-cola:6,99			tot:125,99
+gas:20
+óculos(debito):99
+				
+
+			\\\\\ TOTAL FINAL NOVEMBRO:1378,35       MEDIA FINAL:45,94    	bcp/mcp:0   	scp:0    	TOTAL ANUAL:15272,25         /////////
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1/12/17
+motel:72		tot:76,25( 103,25 - mãe deu 27)
+cerveja posto:3,25
+vaselai posto:17
+triangulo restaurante:11
+
+2/12/17
+cerveja:10		tot:10
+
+3/12/17
+sex-shop:65			tot:65
+
+4/12/17
+itau:26,70
+farmacia(debito):7,74
+cerveja(debito):3,50		tot:63,25
+mercado(debito):10,31
+energetico(debito):8,50
+cerveja(debito):6,50
+
+5/12/17
+cerveja(debito):9
+pedro(debito):8			tot:17			TOTAL PARCIAL:231,50       MEDIA PARCIAL:46,30		bcp/mcp:0	 scp:0
+
+6/12/17
+sex-shop(debito):100			tot:100
+mercado(debito//desconta jhe):9,23)))
+
+7/12/17
+impressao:1			tot:44,5
+cerveja(debito):25,25
+cerveja(debito):18,25
+
+8/12/17
+calça jhennifer dei(debito):45		tot:49
+saia jhe(debito ela paga):29)))
+suco:4
+
+9/12/17
+0:0				tot:0
+
+10/12/17
+0:0				tot:0			TOTAL PARCIAL:425       MEDIA PARCIAL:42,50		bcp/mcp:0	 scp:0
+
+11/12/17
+cigarro:9,25			tot:14,75
+dei jhe:1
+cerveja(debito):4,50
+
+12/12/17
+canos banheiro:5,50		tot:5,50
+
+13/12/17
+remedio(debito):11,90		tot:104,56
+internet:50
+gas:20
+mercado:11,66
+festa pedro:3+3+3+2
+
+14/12/17
+cafe(debito):13			tot:13			TOTAL PARCIAL:562,81       MEDIA PARCIAL:40,20		bcp/mcp:0	 scp:0
+
+15/12/17
+cerveja(debito):10,50		tot:27,24
+cervejaPosto(debito):12,24
+cerveja(debito):4,50
+
+16/12/17
+0:0				tot:0
+
+17/12/17
+havan(debito):48,97		tot:48,97		TOTAL PARCIAL:639,02       MEDIA PARCIAL:37,58		bcp/mcp:0	 scp:0
+
+18/12/17
+cerveja(debito):12,50		tot:12,50
+
+19/12/17
+
+20/12/17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
